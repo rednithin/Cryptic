@@ -1,0 +1,17 @@
+[RSI]
+n = 14
+low = 40
+high = 60
+persistence = 9
+
+[BBANDS]
+n = 20
+nbdevdn = 2
+nbdevup = 2
+
+[MACD]
+n_fast = 12
+n_slow = 26
+down = -0.025
+up = 0.025
+persistence = 9
