@@ -1,0 +1,6 @@
+[MA]
+fast = [5, 12, 1]
+medium = [15, 55, 1]
+slow = [75, 120, 1]
+buy_persistence = [1, 6, 1]
+sell_persistence = [1, 6, 1]

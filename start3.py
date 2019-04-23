@@ -1,5 +1,5 @@
 from process_data import get_data
-from strategies.ma import MAStrat
+from strategies.ma import MyStrat
 import numpy as np
 import random
 
@@ -47,10 +47,10 @@ buy_persistence = 1
 sell_persistence = 1
 '''
 
-strat = MAStrat(df, user_config=config)
+strat = MyStrat(df, user_config=config)
 
 # strat.visualize()
-bestResult = strat.backtest(visualize=True)
+bestResult, _ = strat.backtest(visualize=False)
 bestConfig = config
 
 try:
@@ -69,8 +69,8 @@ slow = {MA_slow}
 buy_persistence = {MA_buy_persistence}
 sell_persistence = {MA_sell_persistence}
 '''
-        strat = MAStrat(df, user_config=fconfig)
-        result = strat.backtest()
+        strat = MyStrat(df, user_config=fconfig)
+        result, _ = strat.backtest()
         print(f"********BEST RESULT: {bestResult}")
         if (result > bestResult):
             print('********************FOUND BEST**********************')

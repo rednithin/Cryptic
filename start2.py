@@ -1,5 +1,5 @@
 from process_data import get_data
-from strategies.macd_cci_rsi import MACD_CCI_RSI
+from strategies.macd_cci_rsi import MyStrat
 import numpy as np
 import random
 
@@ -60,10 +60,10 @@ up = 0.8
 persistence = 4
 '''
 
-strat = MACD_CCI_RSI(df, user_config=config)
+strat = MyStrat(df, user_config=config)
 
 # strat.visualize()
-bestResult = strat.backtest(visualize=False)
+bestResult, _ = strat.backtest(visualize=False)
 bestConfig = config
 
 try:
@@ -104,8 +104,8 @@ down = -{MACD_down}
 up = {MACD_up}
 persistence = {MACD_persistence}
 '''
-        strat = MACD_CCI_RSI(df, user_config=fconfig)
-        result = strat.backtest()
+        strat = MyStrat(df, user_config=fconfig)
+        result, _ = strat.backtest()
         print(f"********BEST RESULT: {bestResult}")
         if (result > bestResult):
             print('********************FOUND BEST**********************')

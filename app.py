@@ -6,6 +6,7 @@ from dataset import binance
 from binance.client import Client
 from flask_cors import CORS, cross_origin
 import random
+import pandas as pd
 from os import listdir
 
 app = Flask(__name__)
@@ -117,8 +118,45 @@ def filenames():
 
 @app.route("/strategies")
 def strategies():
-    filenames = filter(lambda x: x.endswith(".csv"), listdir('data'))
-    return jsonify(filenames)
+    def add_config(x):
+        y = {"name": x[:-3]}
+        with open(f'strategies/{x[:-3]}.toml') as f:
+            y["config"] = f.read()
+        with open(f'strategies/{x[:-3]}_hyper.toml') as f:
+            y["hyper"] = f.read()
+        return y
+
+    filenames = list(
+        filter(lambda x: x.endswith(".py"), listdir('strategies')))
+    strategies = list(map(add_config, filenames))
+    return jsonify(strategies)
+
+
+@app.route("/backtest", methods=['POST'])
+def backtest():
+    features = [
+        # 'Open Time',
+        'Open',
+        'High',
+        'Low',
+        'Close',
+        'Volume',
+        # 'Close Time',
+        # 'Quote Asset Volume',
+        # 'Number Of Trades',
+        # 'Taker Buy Base Asset Volume',
+        # 'Taker Buy Quote Asset Volume',
+        # 'Ignore'
+    ]
+    payload = request.get_json()
+    module = __import__(
+        f'strategies.{payload["strategy"]}', fromlist=['MyStrat'])
+    Strat = getattr(module, 'MyStrat')
+    df = pd.read_csv(f'data/{payload["filename"]}')
+    df = df[features]
+    strat = Strat(df, user_config=payload['config'])
+    amount, response = strat.backtest()
+    return jsonify(response)
 
 
 if __name__ == '__main__':
