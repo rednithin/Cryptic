@@ -2,12 +2,17 @@ from flask import Flask, request, jsonify
 import redis
 from rq import Queue
 from rq.registry import FailedJobRegistry, FinishedJobRegistry, StartedJobRegistry
-from dataset import binance
+from background import binance, hyper_param_optimize
 from binance.client import Client
 from flask_cors import CORS, cross_origin
 import random
 import pandas as pd
+import numpy as np
 from os import listdir
+import toml
+from copy import deepcopy
+from random import choice
+from pprint import pprint
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -176,8 +181,16 @@ def backtest():
     df = pd.read_csv(f'data/{payload["filename"]}')
     df = df[features]
     strat = Strat(df, user_config=payload['config'])
-    amount, response = strat.backtest()
+    _, response = strat.backtest()
     return jsonify(response)
+
+
+@app.route("/hyperopt", methods=['POST'])
+def hyperopt():
+    payload = request.get_json()
+    # hyper_param_optimize(payload)
+    job = q.enqueue(hyper_param_optimize, payload)
+    return jsonify({"queued": True, "id": job.id})
 
 
 if __name__ == '__main__':

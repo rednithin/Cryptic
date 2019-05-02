@@ -16,7 +16,7 @@ def get_column_name(arr, prefix):
 
 
 class MyStrat():
-    def __init__(self, df, user_config='', default_config_file='./strategies/i_wanna_be_rich.toml'):
+    def __init__(self, df, user_config='', default_config_file='./strategies/MACD_RSI_BBANDS/default.toml'):
         self.load_config(user_config, default_config_file=default_config_file)
         self.add_indicators(df)
         self.trend = {
@@ -27,7 +27,7 @@ class MyStrat():
         }
         self.advice = ''
 
-    def load_config(self, user_config, default_config_file='./strategies/i_wanna_be_rich.toml'):
+    def load_config(self, user_config, default_config_file='./strategies/MACD_RSI_BBANDS/default.toml'):
         # Load Config
         default_config = {}
         with open(default_config_file) as f:
