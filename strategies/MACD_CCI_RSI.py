@@ -44,7 +44,8 @@ class MyStrat():
             n_fast=self.config['MACD']['n_fast'],
             n_slow=self.config['MACD']['n_slow'])
         self.df = df.dropna().reset_index(drop=True)
-
+        if not len(self.df):
+            raise Exception('Need more data')
         columns = list(df.columns)
         self.column = {
             "CCI": get_column_name(columns, "CCI_"),
@@ -115,7 +116,7 @@ class MyStrat():
             self.trend['adviced'] = False
             self.advice = ''
 
-    def backtest(self, visualize=False):
+    def backtest(self, prempt=False, visualize=False):
         self.trend = {
             'duration': 0,
             'persisted': False,
@@ -127,6 +128,8 @@ class MyStrat():
         for i in range(len(self.df)):
             tup = self.df[i:i + 1].reset_index(drop=True)
             self.step(tup)
+            if prempt and i == len(self.df) - 1:
+                return (self.advice, tup.at[0, 'Close'])
             if self.advice != '':
                 if len(self.actions) == 0:
                     if self.advice == 'BUY':

@@ -6,28 +6,17 @@ from indicators import MA
 import toml
 import pandas as pd
 import sys
+from random import random
 sys.path.append("..")
 
 
-def get_column_name(arr, prefix):
-    for column_name in arr:
-        if column_name.startswith(prefix):
-            return column_name
-
-
 class MyStrat():
-    def __init__(self, df, user_config='', default_config_file='./strategies/MA/default.toml'):
+    def __init__(self, df, user_config='', default_config_file='./strategies/RAND/default.toml'):
         self.load_config(user_config, default_config_file=default_config_file)
         self.add_indicators(df)
-        self.trend = {
-            'duration': 0,
-            'persisted': False,
-            'direction': '',
-            'adviced': False
-        }
         self.advice = ''
 
-    def load_config(self, user_config, default_config_file='./strategies/MA/default.toml'):
+    def load_config(self, user_config, default_config_file='./strategies/RAND/default.toml'):
         # Load Config
         default_config = {}
         with open(default_config_file) as f:
@@ -37,80 +26,20 @@ class MyStrat():
 
     def add_indicators(self, df):
         # Add Indicators and store df
-        df = MA(df, n=self.config['MA']['fast'])
-        df = MA(df, n=self.config['MA']['medium'])
-        df = MA(df, n=self.config['MA']['slow'])
 
         self.df = df.dropna().reset_index(drop=True)
         if not len(self.df):
             raise Exception('Need more data')
-        columns = list(df.columns)
-        self.column = {
-            "MAslow": get_column_name(columns, f"MA_{self.config['MA']['slow']}"),
-            "MAmedium": get_column_name(columns, f"MA_{self.config['MA']['medium']}"),
-            "MAfast": get_column_name(columns, f"MA_{self.config['MA']['fast']}"),
-        }
 
     @jit
     def step(self, tup):
-        ma_slow = tup.at[0, self.column["MAslow"]]
-        ma_medium = tup.at[0, self.column["MAmedium"]]
-        ma_fast = tup.at[0, self.column["MAfast"]]
-
-        # Uptrend
-        if (ma_fast > ma_slow):
-            if (self.trend['direction'] != 'up'):
-                self.trend = {
-                    "duration": 0,
-                    "persisted": False,
-                    "direction": 'up',
-                    "adviced": False
-                }
-
-            self.trend['duration'] += 1
-
-            if (self.trend['duration'] >= self.config['MA']['buy_persistence']):
-                self.trend['persisted'] = True
-
-            if (self.trend['persisted'] and not self.trend['adviced']):
-                self.trend['adviced'] = True
-                self.advice = 'BUY'
-            else:
-                self.advice = ''
-
-        # Downtrend
-        elif (ma_fast < ma_medium):
-            if (self.trend['direction'] != 'down'):
-                self.trend = {
-                    "duration": 0,
-                    "persisted": False,
-                    "direction": 'down',
-                    "adviced": False
-                }
-
-            self.trend['duration'] += 1
-
-            if (self.trend['duration'] >= self.config['MA']['sell_persistence']):
-                self.trend['persisted'] = True
-
-            if (self.trend['persisted'] and not self.trend['adviced']):
-                self.trend['adviced'] = True
-                self.advice = 'SELL'
-            else:
-                self.advice = ''
-
-        # No Trend
+        # print(self.config)
+        if random() < self.config['RAND']["buy_probability"]:
+            self.advice = 'BUY'
         else:
-            self.trend['adviced'] = False
-            self.advice = ''
+            self.advice = 'SELL'
 
     def backtest(self, prempt=False, visualize=False):
-        self.trend = {
-            'duration': 0,
-            'persisted': False,
-            'direction': '',
-            'adviced': False
-        }
         self.advice = ''
         self.actions = []
         for i in range(len(self.df)):
@@ -207,26 +136,4 @@ class MyStrat():
             ]}
 
     def visualize(self, actions=[]):
-        # print(self.df)
-        x = list(range(len(self.df)))
-
-        plt.title('MA')
-        plt.plot(x, self.df['Close'])
-        plt.plot(x, self.df[self.column["MAslow"]], label='slow')
-        plt.plot(x, self.df[self.column["MAmedium"]], label='medium')
-        plt.plot(x, self.df[self.column["MAfast"]], label='fast')
-        # plt.legend(loc='best')
-
-        if actions:
-            arr = np.array(actions)
-            plt.title('Buy Sell')
-
-            buy = arr[arr[:, 1] == 'BUY']
-            sell = arr[arr[:, 1] == 'SELL']
-            # pprint(buy)
-            # pprint(sell)
-            plt.scatter(buy[:, 0].astype('float'),
-                        buy[:, 2].astype('float'), marker='^', c=['red'] * len(buy))
-            plt.scatter(sell[:, 0].astype('float'),
-                        sell[:, 2].astype('float'), marker='D', c=['magenta'] * len(sell))
-        plt.show()
+        pass

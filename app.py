@@ -13,6 +13,8 @@ import toml
 from copy import deepcopy
 from random import choice
 from pprint import pprint
+from subprocess import Popen
+
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -191,6 +193,17 @@ def hyperopt():
     # hyper_param_optimize(payload)
     job = q.enqueue(hyper_param_optimize, payload)
     return jsonify({"queued": True, "id": job.id})
+
+
+@app.route("/papertrading", methods=['POST'])
+def papertrading():
+    payload = request.get_json()
+    script = f'python live.py -e {payload["exchange"]} -i {payload["interval"]} -p {payload["pair"]} -s {payload["strategy"]}'
+    print(script)
+    with open('temp.toml', 'w') as f:
+        f.write(payload['config'])
+    _ = Popen(['konsole', '-e', script])
+    return jsonify({})
 
 
 if __name__ == '__main__':

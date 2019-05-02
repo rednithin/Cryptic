@@ -4,6 +4,8 @@ import json
 from collections import deque
 import pandas as pd
 import argparse
+from pprint import pprint
+# import toml
 
 
 parser = argparse.ArgumentParser(description='Parser for Live trading')
@@ -16,11 +18,12 @@ parser.add_argument('-s', '--strategy',
                     help="Strategy to be used", required=True)
 
 args = parser.parse_args()
-
 stack = deque()
 
+trades = deque()
 
-def binance_message(msg, args):
+
+def binance_message(msg, args, config):
     d = {
         'Time': msg['k']['t'],
         'Open': msg['k']['o'],
@@ -34,43 +37,60 @@ def binance_message(msg, args):
         df = pd.DataFrame(list(stack)[:-1])
 
         module = __import__(
-            f'strategies.{args.s}', fromlist=['MyStrat'])
+            f'strategies.{args.strategy}', fromlist=['MyStrat'])
         Strat = getattr(module, 'MyStrat')
-
-        with open(f'strategies/{args.s}.toml') as f:
+        try:
+            strat = Strat(df, user_config=config)
+            tup = strat.backtest(prempt=True)
+            print(tup)
+            if not len(trades):
+                if tup[0] == 'BUY':
+                    trades.append(tup)
+            elif tup[0] != trades[-1][0]:
+                trades.append(tup)
+            pprint(df)
+            pprint(trades)
+        except:
             pass
+
     else:
         stack.pop()
         stack.append(d)
 
 
-if args.e == 'Binance':
-    if args.e == "1m":
-        args.e = Client.KLINE_INTERVAL_1MINUTE
-    elif args.e == "3m":
-        args.e = Client.KLINE_INTERVAL_3MINUTE
-    elif args.e == "5m":
-        args.e = Client.KLINE_INTERVAL_5MINUTE
-    elif args.e == "15m":
-        args.e = Client.KLINE_INTERVAL_15MINUTE
-    elif args.e == "30m":
-        args.e = Client.KLINE_INTERVAL_30MINUTE
-    elif args.e == "1h":
-        args.e = Client.KLINE_INTERVAL_1HOUR
-    elif args.e == "2h":
-        args.e = Client.KLINE_INTERVAL_2HOUR
-    elif args.e == "4h":
-        args.e = Client.KLINE_INTERVAL_4HOUR
-    elif args.e == "6h":
-        args.e = Client.KLINE_INTERVAL_6HOUR
-    elif args.e == "8h":
-        args.e = Client.KLINE_INTERVAL_8HOUR
+if args.exchange == 'Binance':
+    if args.interval == "1m":
+        args.interval = Client.KLINE_INTERVAL_1MINUTE
+    elif args.interval == "3m":
+        args.interval = Client.KLINE_INTERVAL_3MINUTE
+    elif args.interval == "5m":
+        args.interval = Client.KLINE_INTERVAL_5MINUTE
+    elif args.interval == "15m":
+        args.interval = Client.KLINE_INTERVAL_15MINUTE
+    elif args.interval == "30m":
+        args.interval = Client.KLINE_INTERVAL_30MINUTE
+    elif args.interval == "1h":
+        args.interval = Client.KLINE_INTERVAL_1HOUR
+    elif args.interval == "2h":
+        args.interval = Client.KLINE_INTERVAL_2HOUR
+    elif args.interval == "4h":
+        args.interval = Client.KLINE_INTERVAL_4HOUR
+    elif args.interval == "6h":
+        args.interval = Client.KLINE_INTERVAL_6HOUR
+    elif args.interval == "8h":
+        args.interval = Client.KLINE_INTERVAL_8HOUR
     else:
         raise Exception('Invalid Interval')
 
     client = Client('', '')
 
+    config = ''
+    with open(f'temp.toml') as f:
+        config = f.read()
+
+    print(config)
+
     bm = BinanceSocketManager(client)
     conn_key = bm.start_kline_socket(
-        'BNBBTC', binance_message, interval=Client.KLINE_INTERVAL_1MINUTE)
+        'BNBBTC', lambda x: binance_message(x, args, config), interval=Client.KLINE_INTERVAL_1MINUTE)
     bm.start()
