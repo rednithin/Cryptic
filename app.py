@@ -118,18 +118,39 @@ def filenames():
 
 @app.route("/strategies")
 def strategies():
-    def add_config(x):
-        y = {"name": x[:-3]}
-        with open(f'strategies/{x[:-3]}.toml') as f:
-            y["config"] = f.read()
-        with open(f'strategies/{x[:-3]}_hyper.toml') as f:
-            y["hyper"] = f.read()
-        return y
+    # def add_hyper(x):
+    #     y = {"name": x[:-3]}
+    #     with open(f'strategies/{x[:-3]}.toml') as f:
+    #         y["config"] = f.read()
+    #     with open(f'strategies/{x[:-3]}_hyper.toml') as f:
+    #         y["hyper"] = f.read()
+    #     return y
+
+    def get_configs(name):
+        # name = x["name"]
+        filenames = list(filter(lambda x: x.endswith(".toml"),
+                                listdir(f'strategies/{name}')))
+        d = {}
+        for file in filenames:
+            with open(f'strategies/{name}/{file}') as f:
+                d[file[:-5]] = f.read()
+        return d
+
+    def get_hyper(name):
+        with open(f'strategies/{name}_hyper.toml') as f:
+            return f.read()
 
     filenames = list(
         filter(lambda x: x.endswith(".py"), listdir('strategies')))
-    strategies = list(map(add_config, filenames))
-    return jsonify(strategies)
+    strategies = list(map(lambda x: x[:-3], filenames))
+
+    d = {}
+    h = {}
+    for strat in strategies:
+        d[strat] = get_configs(strat)
+    for strat in strategies:
+        h[strat] = get_hyper(strat)
+    return jsonify([strategies, d, h])
 
 
 @app.route("/backtest", methods=['POST'])
