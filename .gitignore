@@ -3,3 +3,4 @@ logs/*
 models/*
 data/*
 dump.rdb
+conf.py

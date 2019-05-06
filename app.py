@@ -1,8 +1,8 @@
+from scheduled import scheduled_mail
 from flask import Flask, request, jsonify
 import redis
 from rq import Queue
 from rq.registry import FailedJobRegistry, FinishedJobRegistry, StartedJobRegistry
-from background import binance, hyper_param_optimize
 from binance.client import Client
 from flask_cors import CORS, cross_origin
 import random
@@ -14,14 +14,24 @@ from copy import deepcopy
 from random import choice
 from pprint import pprint
 from subprocess import Popen
-
+from flask_sqlalchemy import SQLAlchemy
+from rq_scheduler import Scheduler
+from datetime import datetime
+from background import binance, hyper_param_optimize
+# from flask_marshmallow import Marshmallow
 
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADER'] = 'Content-Type'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db.sqlite'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = 'True'
 
-r = redis.Redis()
-q = Queue(connection=r)
+db = SQLAlchemy(app)
+# ma = Marshmallow(app)
+
+scheduler = Scheduler(connection=redis.Redis())
+q = Queue(connection=redis.Redis())
+# scheduler = Scheduler(queue=q)
 
 months_map = {
     "01": "Jan",
@@ -38,6 +48,24 @@ months_map = {
     "12": "December",
 }
 
+association = db.Table('association', db.Column('user_id', db.Integer, db.ForeignKey('user.id')),
+                       db.Column('crypto_id', db.Integer, db.ForeignKey('crypto.id')))
+
+
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100))
+    password = db.Column(db.String(100))
+    email = db.Column(db.String(100), unique=True)
+    cryptocurrencies = db.relationship(
+        'Crypto', secondary=association, backref=db.backref('users'))
+
+
+class Crypto(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100), unique=True)
+    short = db.Column(db.String(5), unique=True)
+
 
 @app.route("/tasks")
 def tasks():
@@ -50,20 +78,20 @@ def tasks():
     return jsonify(response)
 
 
-@app.route("/login", methods=['POST'])
-def login():
-    payload = request.get_json()
-    if payload["email"] == "reddy.nithinpg@gmail.com" and payload["password"] == "12345678":
-        return jsonify({"status": True})
-    return jsonify({"status": False})
+# @app.route("/login", methods=['POST'])
+# def login():
+#     payload = request.get_json()
+#     if payload["email"] == "reddy.nithinpg@gmail.com" and payload["password"] == "12345678":
+#         return jsonify({"status": True})
+#     return jsonify({"status": False})
 
 
-@app.route("/setup", methods=['POST'])
-def setup():
-    payload = request.get_json()
-    if payload["email"] == "reddy.nithinpg@gmail.com" and payload["password"] == "12345678":
-        return jsonify({"status": True})
-    return jsonify({"status": False})
+# @app.route("/setup", methods=['POST'])
+# def setup():
+#     payload = request.get_json()
+#     if payload["email"] == "reddy.nithinpg@gmail.com" and payload["password"] == "12345678":
+#         return jsonify({"status": True})
+#     return jsonify({"status": False})
 
 
 @app.route("/dataset", methods=['POST'])
@@ -121,6 +149,38 @@ def dataset():
 def filenames():
     filenames = list(filter(lambda x: x.endswith(".csv"), listdir('data')))
     return jsonify(filenames)
+
+
+@app.route("/coins", methods=['POST'])
+def coins():
+    payload = request.get_json()
+    user_id = payload["user"]
+    user = db.session.query(User).get(user_id)
+    user_coins = []
+    for c in user.cryptocurrencies:
+        user_coins.append(c.name)
+
+    coins = Crypto.query.all()
+    coins = list(map(lambda x: x.name, coins))
+
+    return jsonify({"coins": coins, "userCoins": user_coins})
+
+
+@app.route("/add_coins", methods=['POST'])
+def add_coins():
+    payload = request.get_json()
+    user_id = payload["user"]
+    new_coins = payload["userCoins"]
+
+    user = db.session.query(User).get(user_id)
+    if user:
+        user.cryptocurrencies = []
+        for name in new_coins:
+            coin = db.session.query(Crypto).filter_by(name=name).first()
+            if coin:
+                user.cryptocurrencies.append(coin)
+    db.session.commit()
+    return jsonify({})
 
 
 @app.route("/strategies")
@@ -205,6 +265,39 @@ def papertrading():
     _ = Popen(['konsole', '-e', script])
     return jsonify({})
 
+
+@app.route("/login", methods=['POST'])
+def login():
+    payload = request.get_json()
+    user = db.session.query(User).filter_by(email=payload["email"]).first()
+    if user:
+        if user.password == payload["password"]:
+            return jsonify({"user": user.id})
+        else:
+            return jsonify({}), 401
+    else:
+        return jsonify({}), 404
+
+
+@app.route("/setup", methods=['POST'])
+def setup():
+    payload = request.get_json()
+    print(payload)
+    user = User(name=payload["name"], email=payload["email"],
+                password=payload["password"])
+    db.session.add(user)
+    db.session.commit()
+    return jsonify({"user": user.id})
+
+
+scheduler.schedule(
+    scheduled_time=datetime.utcnow(),
+    func=scheduled_mail,
+    # args=[],
+    # kwargs={},
+    interval=60,  # Seconds
+    repeat=None,
+)
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)
