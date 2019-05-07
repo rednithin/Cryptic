@@ -17,8 +17,15 @@ def scheduled_mail():
         print(user.email)
         coins = list(map(lambda x: (x.name, x.short), user.cryptocurrencies))
         '''
+        coins is of the form 
+        [
+            ("Bitcoin", "BTC"),
+            ("Litecoin", "LTC")
+        ]
+        '''
+        '''
 
-
+        
         PUSHKALA MODIFY THIS PART
 
 
