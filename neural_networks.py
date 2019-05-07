@@ -3,10 +3,10 @@
 # import plaidml.keras
 # plaidml.keras.install_backend()
 
-from keras.models import Sequential
-from keras.layers import Dense, Activation, Flatten, LSTM, GRU, Conv1D, Flatten, MaxPooling1D, CuDNNLSTM, BatchNormalization, Dropout
-from keras.callbacks import TensorBoard, ModelCheckpoint
-from keras.optimizers import Adam
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Activation, Flatten, LSTM, GRU, Conv1D, Flatten, MaxPooling1D, CuDNNLSTM, BatchNormalization, Dropout
+from tensorflow.keras.callbacks import TensorBoard, ModelCheckpoint
+from tensorflow.keras.optimizers import Adam
 
 
 def r_lstm_model(window_size, n_inputs, n_outputs):
@@ -80,3 +80,16 @@ def nn(shape, NAME):
     print(model.summary)
 
     return model, tensorboard, checkpoint
+
+
+def dense_model(input_dim, config):
+    model = Sequential()
+
+    model.add(Dense(config["NN"]["num_neurons"],
+                    activation=config["NN"]["activation"], input_dim=input_dim))
+    model.add(Dense(1))
+
+    model.compile(optimizer=config["NN"]["optimizer"],
+                  loss=config["NN"]["loss"],
+                  metrics=['mse', 'mae'])
+    return model

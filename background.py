@@ -45,12 +45,19 @@ def hyper_param_optimize(payload):
             for h in hyper:
                 if h != 'MISC':
                     for k in hyper[h]:
-                        if isinstance(hyper[h][k], list) and len(hyper[h][k]) == 3:
+                        if isinstance(hyper[h][k], list) and len(hyper[h][k]) == 3 and not isinstance(hyper[h][k][0], str):
                             config[h][k] = choice(
                                 np.arange(*hyper[h][k]).tolist())
+                        elif isinstance(hyper[h][k], list):
+                            config[h][k] = choice(hyper[h][k])
                         else:
                             raise Exception('Parsing Error')
             summ = 0
+
+            # print(toml.dumps(config))
+            # input()
+            # continue
+
             for df in dfs:
                 strat = Strat(df, user_config=toml.dumps(config))
                 result, _ = strat.backtest()

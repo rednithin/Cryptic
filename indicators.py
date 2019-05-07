@@ -314,3 +314,16 @@ def ATR(df, n):
     result = emaHelper(TR_s, n, alpha)
     result = pd.Series(result, name='ATR_' + str(n))
     return out(SETTINGS, df, result)
+
+
+def SMMA(df, n):
+    """
+    Smoothed Moving Average.
+    Formula:
+    smma = avg(data(n)) - avg(data(n)/n) + data(t)/n
+    """
+    name = 'SMMA_{n}'.format(n=n)
+    middle = df[['Close', 'High', 'Low']].sum(axis=1) / 3
+    result = pd.Series(middle.ewm(alpha=1.0 / n).mean(), name=name)
+    return out(SETTINGS, df, result)
+    # return series.ewm(alpha=1.0/period).mean().values.flatten()

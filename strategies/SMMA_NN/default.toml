@@ -1,0 +1,15 @@
+[STRAT]
+max_length = 100
+threshold_buy = 1.0
+threshold_sell = -1.0
+hodl_threshold = 1
+
+[NN]
+num_neurons = 5
+activation = "tanh"
+optimizer = "sgd"
+loss = "mse"
+epochs = 3
+
+[SMMA]
+n = 5 

@@ -1,0 +1,19 @@
+[MISC]
+opt = 1
+tries = 100
+
+[STRAT]
+max_length = [50,250,10]
+threshold_buy = [0.5, 2.0, 0.1]
+threshold_sell = [-2.0, -0.5, 0.1]
+hodl_threshold = [0.95, 1.0, 0.01]
+
+[NN]
+num_neurons = [2,16,1]
+activation = ["tanh", "relu", "sigmoid"]
+optimizer = ["sgd", "adam"]
+loss = ["mse", "mae"]
+epochs = [1,5,1]
+
+[SMMA]
+n = [3,10,1] 
