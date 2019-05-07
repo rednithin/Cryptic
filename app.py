@@ -16,7 +16,7 @@ from pprint import pprint
 from subprocess import Popen
 from flask_sqlalchemy import SQLAlchemy
 from rq_scheduler import Scheduler
-from datetime import datetime
+from datetime import datetime, timedelta
 from background import binance, hyper_param_optimize
 # from flask_marshmallow import Marshmallow
 
@@ -28,10 +28,10 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = 'True'
 
 db = SQLAlchemy(app)
 # ma = Marshmallow(app)
+r = redis.Redis()
+scheduler = Scheduler('mail', connection=r, interval=300)
+q = Queue(connection=r)
 
-scheduler = Scheduler(connection=redis.Redis())
-q = Queue(connection=redis.Redis())
-# scheduler = Scheduler(queue=q)
 
 months_map = {
     "01": "Jan",
@@ -170,7 +170,7 @@ def coins():
 def add_coins():
     payload = request.get_json()
     user_id = payload["user"]
-    new_coins = payload["userCoins"]
+    new_coins = payload["coins"]
 
     user = db.session.query(User).get(user_id)
     if user:
@@ -180,7 +180,7 @@ def add_coins():
             if coin:
                 user.cryptocurrencies.append(coin)
     db.session.commit()
-    return jsonify({})
+    return jsonify({"userCoins": new_coins})
 
 
 @app.route("/strategies")
@@ -290,14 +290,27 @@ def setup():
     return jsonify({"user": user.id})
 
 
+for job in scheduler.get_jobs():
+    scheduler.cancel(job)
+
+
 scheduler.schedule(
     scheduled_time=datetime.utcnow(),
     func=scheduled_mail,
     # args=[],
     # kwargs={},
-    interval=60,  # Seconds
+    interval=300,  # Seconds
     repeat=None,
+    result_ttl=1
 )
+
+
+@app.after_request
+def after_request(response):
+    l = list(scheduler.get_jobs())
+    print('Current Jobs :', l)
+    return response
+
 
 if __name__ == '__main__':
     app.run(port=5000, debug=True)

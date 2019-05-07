@@ -25,11 +25,11 @@ def scheduled_mail():
         '''
         '''
 
-        
+
         PUSHKALA MODIFY THIS PART
 
 
         '''
         message = str(coins)
-        mail.sendmail(email, [user.email], str(message))
+        # mail.sendmail(email, [user.email], str(message))
     mail.close()
