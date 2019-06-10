@@ -1,0 +1,6 @@
+[MA]
+fast = 6
+medium = 45
+slow = 92
+buy_persistence = 3
+sell_persistence = 4

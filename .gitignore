@@ -4,3 +4,4 @@ models/*
 data/*
 dump.rdb
 conf.py
+GloVe-1.2

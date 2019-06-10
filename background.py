@@ -59,7 +59,8 @@ def hyper_param_optimize(payload):
             # continue
 
             for df in dfs:
-                strat = Strat(df, user_config=toml.dumps(config))
+                strat = Strat(df, payload["warmup"],
+                              user_config=toml.dumps(config))
                 result, _ = strat.backtest()
                 summ += result
             print(f'**********CURRENT BEST***********\n{bestScore}')

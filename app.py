@@ -65,6 +65,13 @@ class Crypto(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100), unique=True)
     short = db.Column(db.String(5), unique=True)
+    sentiment = db.Column(db.Float, default=-1.0)
+
+
+def get_hash(mystring):
+    import hashlib
+    hash_object = hashlib.md5(mystring.encode())
+    return hash_object.hexdigest()
 
 
 @app.route("/tasks")
@@ -242,7 +249,7 @@ def backtest():
     Strat = getattr(module, 'MyStrat')
     df = pd.read_csv(f'data/{payload["filename"]}')
     df = df[features]
-    strat = Strat(df, user_config=payload['config'])
+    strat = Strat(df, payload["warmup"], user_config=payload['config'])
     _, response = strat.backtest()
     return jsonify(response)
 
@@ -258,7 +265,7 @@ def hyperopt():
 @app.route("/papertrading", methods=['POST'])
 def papertrading():
     payload = request.get_json()
-    script = f'python live.py -e {payload["exchange"]} -i {payload["interval"]} -p {payload["pair"]} -s {payload["strategy"]}'
+    script = f'python live.py -e {payload["exchange"]} -i {payload["interval"]} -p {payload["pair"]} -s {payload["strategy"]} -w {payload["warmup"]}'
     print(script)
     with open('temp.toml', 'w') as f:
         f.write(payload['config'])
@@ -271,7 +278,7 @@ def login():
     payload = request.get_json()
     user = db.session.query(User).filter_by(email=payload["email"]).first()
     if user:
-        if user.password == payload["password"]:
+        if user.password == get_hash(payload["password"]):
             return jsonify({"user": user.id})
         else:
             return jsonify({}), 401
@@ -284,7 +291,7 @@ def setup():
     payload = request.get_json()
     print(payload)
     user = User(name=payload["name"], email=payload["email"],
-                password=payload["password"])
+                password=get_hash(payload["password"]))
     db.session.add(user)
     db.session.commit()
     return jsonify({"user": user.id})

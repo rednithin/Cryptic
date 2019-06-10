@@ -2,7 +2,6 @@ import numpy as np
 from pprint import pprint
 import matplotlib.pyplot as plt
 from numba import jit
-from indicators import MA, SMMA
 import toml
 import pandas as pd
 import sys
@@ -10,6 +9,8 @@ from collections import deque
 from neural_networks import dense_model
 
 sys.path.append("..")
+from indicators import MA, SMMA
+from Strategy import Strategy
 
 
 def get_column_name(arr, prefix):
@@ -18,8 +19,9 @@ def get_column_name(arr, prefix):
             return column_name
 
 
-class MyStrat():
-    def __init__(self, df, user_config='', default_config_file='./strategies/SMMA_NN/default.toml'):
+class MyStrat(Strategy):
+    def __init__(self, df, warmup, user_config='', default_config_file='./strategies/SMMA_NN/default.toml'):
+        self.warmup = int(warmup)
         self.load_config(user_config, default_config_file=default_config_file)
         self.add_indicators(df)
 
@@ -126,6 +128,8 @@ class MyStrat():
 
             if prempt and i == len(self.df) - 1:
                 return (self.advice, tup.at[0, 'Close'])
+            if i < self.warmup:
+                continue
             if self.advice != '':
                 if len(self.actions) == 0:
                     if self.advice == 'BUY':

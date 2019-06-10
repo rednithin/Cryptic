@@ -1,0 +1,5016 @@
+Content
+
+[removed]
+
+
+
+"The costs associated with healthcare services are rising at an exponential rate. In fact, according to the recent report published by OECD, without adequate reforms, in the coming years, healthcare services are speculated to become unaffordable for over half of the global population. Some of the critical reasons behind this imminent pricing crisis include an increase in the population, advances in the medical sector, medical complexities, etc.
+
+CURES Token has been dedicatedly designed to address the impediments associated with the affordability of healthcare services by decentralizing the existing healthcare system and empowering patients, health app developers, medical service providers, and equipment suppliers. The platform has leveraged state-of-the-art-technologies to reduce the costs and optimize the use of limited resources within the sector. In the year 2019, the ecosystem plans to extend a Security Token Offering for the EHR platform (one of the fundamental offerings) in order to promote the development and value of the product. Additionally, it also intends to provide investors with opportunities to claim the company’s share and optimize their profit by supporting and sponsoring the development process.
+
+# Six Imperative Pillars of CURES
+
+**The operation of CURES Token rests on six pillars that include:-**
+
+* Electronic Health Records
+* HAPP Store (App store for health apps)
+* Health Assurance Platform
+* Marketplace and Trust Review Platform
+* Trading Platform
+* Charitable Trust Fund
+
+**Benefits of CURES**
+
+**Some of the notable advantages of CURES token are:-**
+
+**Patients**
+
+* Hedging against inflation
+* In the future, if the CURES value increase, patients can trade the contracts for higher prices
+* By purchasing contracts patients can ensure access to medical services at discounted rates.
+* Medical contracts enable patients to get quality medicare services across the globe.
+
+**Clinics:**
+
+* Streamline the cash flow
+* An effective way of interest-free fund
+* Guaranteeing future work
+* Attracting new patients by offering services at competitive rates
+* If the CURES Token rise in value, clinics have the option to outsource the contract"
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+Hello can someone advise what to do with TTU tokens . They have been taken off the exchanges and asking to convert to their private token tat01 . Confused
+[removed]
+
+[https://simpleswap.io/](https://simpleswap.io/)
+
+
+
+" 
+
+||||
+|:-|:-|:-|
+||||
+
+&amp;#x200B;
+
+||||
+|:-|:-|:-|
+||||
+
+Technically, a blockchain is a chain of blocks, ordered in a network of non-trusted peers. Each block references the previous one and contains data, its own hash, and the hash of the previous block.  
+A unit of data stored inside a block may be represented by any value depending on the type of blockchain. A block can store an amount of money, a share in a company, a digital certificate of ownership, a vote during an election, or any other value.
+
+A block stores encrypted details about the parties whose interaction resulted in the data stored in the block. A [cryptocurrency ](https://ico.terragreen.io/)block also contains the sender’s and receiver’s encrypted identifiers. A block for an ecommerce transaction will contain the identifiers of the retailer and consumer, for example.  
+Each block also has a hash. This hash is a value generated from a string of text using a mathematical function. A hash can be compared to a fingerprint, as each hash is unique. Its role is to identify a block and the block’s contents. Once a block is created, a hash is calculated. Changing something inside the block causes the hash to change. So, a hash also indicates changes to a block. Also, each block contains a hash of the previous block. For instance, if there are three blocks in a blockchain, block 3 will contain the hash of block 2, and block 2 will contain the hash of block 1. If anyone changes the data in a single block, the hash of that particular block changes, but it also makes the whole chain invalid. A hash is a great tool for identifying attempts to change data in blocks. However, a hash algorithm alone is not enough to ensure the security of a blockchain. To mitigate attempts to corrupt the blockchain and to ensure security, blockchain technology also uses a process called proof-of-work.
+
+SHA-384 Algorithm and its use
+
+SHA-384 is a cryptographic hash function that takes an input of a random size and produces an output of a fixed size. Hash functions are powerful because they are ‘one-way’. What this is means is, it is possible for anyone to use a hash function to produce an output when given an input; however, it is impossible to use the output of the hash function to reconstruct it’s given input. This powerful feature of the SHA-384 hash function makes it ideal for application within the TerraGreenCoin platform.
+
+The SHA-384 hash function is utilized within the TerraGreen network in following ways:
+
+• Creation of TerraGreen coin addresses
+
+SHA-384 is defined in the exact same manner as SHA-512 with the following two exceptions:
+
+1. the initial hash value H (0) is based on the fractional parts of the square roots of the ninth through sixteenth primes:  
+H (0) 1 = cbbb9d5dc1059ed8  
+H (0) 2 = 629a292a367cd507  
+H (0) 3 = 9159015a3070dd17   
+H (0) 4 = 152fecd8f70e5939   
+H (0) 5 = 67332667ffc00b31   
+H (0) 6 = 8eb44a8768581511   
+H (0) 7 = db0c2e0d64f98fa7   
+H (0) 8 = 47b5481dbefa4fa4
+2. The final 384-bit hash is obtained by truncating the SHA-512-based hash output to its left-most 384 bits.
+
+Hence the hash of “abc"" is
+
+cb00753f45a35e8b b5a03d699ac65007 272c32ab0eded163 1a8b605a43ff5bed 8086072ba1e7cc23 58baeca134c825a7
+
+and the hash of
+
+“abcdefghbcdefghicdefghijdefghijkefghijklfghijklmghijklmnhijklmnoijklmnopjklmnopqklmnopqrlmnopqrsmnopqrstnopqrstu""
+
+(with no line break after the first n) is
+
+09330c33f71147e8 3d192fc782cd1b47 53111b173b3b05d2 2fa08086e3b0f712 fcc7c71a557e2db9 66c3e9fa91746039
+
+This innovative algorithm enables [TerraGreen ](https://terragreen.io/)platform to be used for creating value and authenticates digital information. Additionally, inside the TerraGreen ecosystem, there are three sub-ecosystems actively working by exchanging data, analyzing them, generating reports and making predictive and/or prescriptive actionable suggestions to each other in real time."
+" “Many token holders will be speculators, which is fine. We all are happy to make money, but a projects responsibility is to acquire as much talented and influential token holders as possible, and convert speculators into active community members.” by elrondnetwork"
+
+
+[removed]
+
+[removed]
+"Blockchain-based market research and data exchange network, Insight Network, has today announced the release of their updated [**roadmap**](https://medium.com/insightsnetwork/2019-instar-roadmap-q-1-2-e17c70aecf14) for Q1/2 2019.
+
+**The company, which allows users to earn free INSTAR tokens while completing daily surveys, detailed plans for the project.**
+
+In an official post with a wide-ranging of information, Insights specifically narrows down their development to five aspects:
+
+&gt;***Distribution:*** *INSTAR token migration and cold wallet integration.*  
+&gt;  
+&gt;***Technology:*** *Improved surveys and data node/ block producer elections.*  
+&gt;  
+&gt;***Requesters:*** *All in one requester dashboard release.*  
+&gt;  
+&gt;***Providers:*** *2FA integration and encrypted messaging on Google Play.*  
+&gt;  
+&gt;***Adoption:*** *Requester onboarding and continued business development and marketing.* 
+
+The above points are a greatly summarized version of the roadmap, and readers are advised to check out the official release for a much greater understanding of future development.
+
+Along with the updated roadmap, Insights also announced several important milestones, showcasing the growth and development of the team and project.
+
+As the network continues to expand and improve adoption, Insights Network is now in the top 15K trafficked websites in the Philippines, according to Alexa.
+
+The project has also just had their one millionth survey question answered, according to a [**tweet**](https://twitter.com/instartoken/status/1110210248554369025); no doubt an encouraging step, for a company that will hope to have widespread adoption among the data requestors and survey industry.
+
+With a token migration set for May 1st, the future does look very bright for this project, made even more notable, as during this prolonged bear market, many projects are facing an uphill battle to stay solvent, let alone lay definitive plans for future growth and adoption."
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+[Binance Coin(BNB)](https://kryptocal.com/coin/bnb) | [Launchpad Token Sale Ends](https://kryptocal.com/event/27333/launchpad-token-sale-ends) | April 13, 2019
+[Callisto Network(CLO)](https://kryptocal.com/coin/clo) | [AMA with Head Marketing](https://kryptocal.com/event/27388/ama-with-head-marketing) | April 14, 2019
+[FUTURAX(FTXT)](https://kryptocal.com/coin/ftxt) | [Community Voting Ends](https://kryptocal.com/event/27309/community-voting-ends) | April 14, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+"[https://www.newsbtc.com/2019/03/04/blockchain-road-space-negotiation-project-wins-bmw-backed-competition-for-auto-tech/](https://www.newsbtc.com/2019/03/04/blockchain-road-space-negotiation-project-wins-bmw-backed-competition-for-auto-tech/)
+
+&amp;#x200B;
+
+Blockchain can be applied to mobility or auto industries. 
+
+There are some projects regarding mobility services recently.
+
+Especially, I'm interested in MVL proejct. They've provided a ride hailing services TADA which is a usecase of MVL protocol in Singapore. You can check more informtaion at r/MVL.
+
+Please share other projects regarding auto or mobility services with me. "
+[removed]
+
+
+
+[removed]
+
+
+
+"     Crypto.IQ is pleased to announce that Charlie Shrem has agreed to join the NIX advisory board along with becoming a NIX contributor.
+
+     Charlie has long believed that privacy and decentralization are not just themes in cryptocurrency. They are the reason it exists. They are among the critical characteristics that make this a breakthrough technology — one that is changing the world.
+
+     That’s why he feels so strongly about NIX. It combines these two important features into one very powerful platform that we at Crypto.IQ believe has enormous potential to deliver the “killer app” that will take crypto mainstream.
+
+     What Charlie likes even more is the way the NIX team has conducted itself from the project’s inception to the present.
+
+     “Decentralized privacy networks are the future of crypto,” Charlie said. “I’m excited to be working with a grassroots project that built itself up without fundraising.”
+
+     Rather than fundraising with an ICO, NIX created a faucet that delivers newly minted NIX to users. And since its inception, NIX has been trading on exchanges, increasing its social media efforts, and following its well-thought-out roadmap — all of this during the longest bear market in crypto history.
+
+     The vision of the NIX team is to fix the flaws of traditional privacy coins by creating a multi-layer platform that encompasses protocol consensus, utilization features, inter-communication systems and a foundation for decentralized applications to be built on top of NIX.
+
+     Already, they have achieved much within those layers, but there is more yet to come.
+
+     Partnerships with Blocknet, Chainzilla, Whopper, and Swirl demonstrate that NIX is expanding its reach while staying under the radar of the crypto mainstream. The NIX project, begun last May, has already delivered streamlined privacy solutions like the Ghost Vault and Commitment Key Packs Scheme to allow for zerocoin address-less private transactions.
+
+     What makes NIX even more of a standout is the fact that it is supported by the very popular Nano S and Ledger Blue hardware wallets. This is an enviable position for NIX to be in, considering how few coins these wallets support.
+
+     As well, NIX has promoted an innovative leasing consensus that allows peers to have their coins staked by third parties without compromising coin ownership. These features and the creation of the unique and fair ghostnodes reward distribution system — along with the delivery of mobile wallets that will soon integrate core wallet functionalities — make NIX the project to watch in the privacy coin space.
+
+     Charlie believes that NIX will see growing popularity as investors in the crypto market and those who desire a strongly decentralized and private coin watch the NIX team continue to build this promising project.
+
+Source: https://cryptoiq.co/crypto-iqs-charlie-shrem-joins-nix-advisory-board/"
+"“As a first use case, Elrond and DSRL are looking into the possibility of using the Elrond platform for decentralized management of demand response program in smart energy grids.” by  elrondnetwork https://link.medium.com/qUA8KvCNJV"
+
+
+
+" Compared to Ethereum, Elrond eliminates both energy and computational waste from PoW algorithms by implementing a SPoS consensus while using transaction processing parallelism through sharding. Total Tokens: 20,000,000,000 **elrondnetwork**"
+
+
+[removed]
+
+
+
+
+[removed]
+
+" 
+
+They announced that they already listed MCO, MANA, ODE and XEM.
+
+&amp;#x200B;
+
+Here is the link of their post so you can get more details :)
+
+[https://www.reddit.com/r/TradeIOICO/comments/axwf0g/guess\_what\_tionauts\_mco\_mana\_ode\_and\_xem\_are\_now/](https://www.reddit.com/r/TradeIOICO/comments/axwf0g/guess_what_tionauts_mco_mana_ode_and_xem_are_now/)"
+
+
+[removed]
+
+
+
+"Let's say theoretically, that there was a business who focuses on money &amp; money transfers. 
+
+ex(money orders, check cashing western union, etc) 
+
+Said company wants to start brokering cryptos by setting up an account for buying / selling, and making buys / sells on the market as customers make purchases. So if a customer buys crypto, an order is placed at market value, company pays for the order, person gets the crypto. if customer makes a sell order, crypto is sold at market value, company collects usd and pays customer back. Essentially legal brokering. 
+
+Can anyone point me to any resources for how this could be done legally? specifically NYC. 
+
+Any thoughts?
+
+Thanks Reddit &lt;3"
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+ | [CN Conceal Release/Fork](https://kryptocal.com/event/26896/cn-conceal-release-fork) | March 7, 2019
+
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Product 2 Info](https://kryptocal.com/event/26971/product-2-info) | March 7, 2019
+ | [Token Burn](https://kryptocal.com/event/26999/token-burn) | March 7, 2019
+[Polis(POLIS)](https://kryptocal.com/coin/polis) | [PolisPay Open Beta](https://kryptocal.com/event/27001/polispay-open-beta) | March 7, 2019
+[EUNOMIA(ENTS)](https://kryptocal.com/coin/ents) | [CM Robot AI Full Launch](https://kryptocal.com/event/27000/cm-robot-ai-full-launch) | March 7, 2019
+[DigiByte(DGB)](https://kryptocal.com/coin/dgb) | [Breakthrough Pittsburgh](https://kryptocal.com/event/25045/breakthrough-pittsburgh) | March 8, 2019
+[Etherparty(FUEL)](https://kryptocal.com/coin/fuel) | [Rocket 2.0 Launch](https://kryptocal.com/event/26946/rocket-2-0-launch) | March 8, 2019
+
+
+&amp;nbsp;
+
+**Exchanges**
+
+ | | | 
+:--|:--:|:--|
+[Lisk(LSK)](https://kryptocal.com/coin/lsk) | [Bitpanda Listing](https://kryptocal.com/event/26945/bitpanda-listing) | March 7, 2019
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[Ethereum Classic(ETC)](https://kryptocal.com/coin/etc) | [San Francisco Meetup](https://kryptocal.com/event/26948/san-francisco-meetup) | March 8, 2019
+[ZenCash(ZEN)](https://kryptocal.com/coin/zen) | [Nigeria ASFL Meetup](https://kryptocal.com/event/26947/nigeria-asfl-meetup) | March 8, 2019
+[Sharder(SS)](https://kryptocal.com/coin/ss) | [Amsterdam Meetup](https://kryptocal.com/event/26866/amsterdam-meetup) | March 8, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+"# PrimeStone
+
+**The PrimeStone Coin** is an efficient and reliable tool which satisfies even the most demanding users. This new medium of exchange ensures a high level of security as well as smooth and cheap transactions. To protect the best interests, comfort, and safety of our users, the PrimeStone Team has implemented some significant features, such as Unique Address Format, SegWit, Replay Protection and Zero Knowledge Proof.  
+
+&amp;#x200B;
+
+The first version of PSC was put on the market in June 2018. At the beginning of 2019 PSC underwent SWAP which introduced a few significant changes. To ensure stable network performance, the our blockchain has applied the Proof-of-Stake consensus. In fact, we were encouraged to make this amendment by a few factors, such as greater efficiency of PoS coins, its higher resistance against any kinds attacks as well as the growing popularity of this consensus which is dictated by a significant technological advantage over Proof of Work. However, PSC remains a MasterNode coin, so users are given the chance to benefit from both functions. We have created and, of course, published a reward plan presenting clear rewards division between stakers and MasterNode holders.  
+
+&amp;#x200B;
+
+FIND OUT MORE ABOUT THE PROJECT
+
+**LINK** [PrimeStone Business Plan](https://primestone.global/wp-content/uploads/2019/04/PrimeStone-Business-Plan.pdf)
+
+**LINK** [PrimeStone WhitePaper ver. 2.0](https://primestone.global/wp-content/uploads/2019/02/WhitePaper.pdf)
+
+&amp;#x200B;
+
+ ***This product – like other PrimeStone elements – has been designed to simplify your life. To prove that blockchain holds the potential to transform money, business, government, and society.***
+
+  
+
+***What is PrimeStone?*** The PrimeStone Project has been established to develop and popularise the use of blockchain among various businesses as well as single users. We aim to develop an innovation-friendly ecosystem that will constitute the bridge between modern technologies and the real world. Cryptocurrencies can revolutionize payments, blockchain technology can massively simplify various economic sectors. The only thing we need here is an appropriate tool. And that’s what we would like to provide. 
+
+&amp;#x200B;
+
+To find out more about the PrimeStone Project, visit our website or social media accounts. But if you have any questions, concerns or comments do not hesitate to contact us directly."
+
+
+
+
+
+
+
+[removed]
+
+
+"By the time of writing this , i've lost more than 45%. There goes 2 months of salary as a bartender. I'm thinking of ending my life.   
+[https://imgur.com/ux1lIV4](https://imgur.com/ux1lIV4)  
+
+
+Feel free to donate 
+
+GRS  3Cp5Anokf8QL3oDbzoLbhyRNiG8cDptsyv   
+BTC 152PBcxNvcNUPhPLMUevLY4N9Tgxd3ETfF  
+
+
+ bogged . mp4"
+[removed]
+[removed]
+
+[removed]
+
+[removed]
+
+
+
+
+[removed]
+[removed]
+Viel doesn't compromise on your security and privacy as it has the updated technologies to beat the rest being the first crypto currency on this field. For more details visit https://veil-project.com/
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+
+"Hey guys, I recently made a video on Monetha/OCN/LTC giving my thoughts on where I think we're headed in the short term. 
+
+&amp;#x200B;
+
+Out of the three I think MTH has the biggest potential for gains with LTC coming last which makes sense cause it's a much bigger cap coin.There was some positive price gains made over the last couple of days which I think signals that there is a bigger move on it's way potentially. Of course nothing is guaranteed but I'm working with what I've got. If you're interested in my thoughts feel free to click on the link below!
+
+[https://www.youtube.com/watch?v=HohyAV6WU9s](https://www.youtube.com/watch?v=HohyAV6WU9s)"
+
+
+
+
+
+
+
+[removed]
+
+
+"SOV coin mining is free except for Ethereum tx fee. You could either just grab one and hodl or sell it off right away. Is there \*any\* drawback to this?  
+
+
+[https://mint.soundmoneycoin.io](https://mint.soundmoneycoin.io)"
+
+
+
+[removed]
+
+
+
+
+
+
+"Rewards
+
+Rewards
+
+Rewards
+
+support your favourite chain or Project"
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+"One of the most trusted exchanges in cryptocurrency brings highly potential project to trading platform. The emergence of this platform gives rise to blockchains in the making, and the first project was the MultiVAC. The launch of its Token Sale was like a blink of an eye that caused the People's Exchange emerge in crypto market consciousness.   [https://bravenewcoin.com/insights/kucoin-shares-price-analysis-shining-a-spotlight-on-ieos](https://bravenewcoin.com/insights/kucoin-shares-price-analysis-shining-a-spotlight-on-ieos)"
+[removed]
+[removed]
+[removed]
+"Hey guys, one of the co-founders of Hodlbot here. I'm a longtime member of this subreddit. 
+
+I wanted to show off a tool we built to help cryptocurrency investors automate their favourite trading strategies. Here's what it looks like.
+
+**Create a strategy**
+
+* you can customize and create your own portfolios in the blink of an eye. E.g. Select the top 30 coins by market caps or choose 20 different coins and give each a fixed %. More about customization here.
+
+**Backtest it** 
+
+* Rather than launching a strategy blindly, you can use backtest your strategy to see how it would have performed in the past. Backtesting is a vital part of the research process. We collect tick-by-tick data from exchanges. 
+
+
+**Execute &amp; Automatically Rebalance**
+
+* Hodlbot automates the boring stuff like trade execution and rebalancing. Just schedule a rebalancing period, and HodlBot will automatically rebalance your portfolio to make sure it's on track. 
+ 
+**Easy to use**
+
+* It’s really well-designed with a modern UI. Simple to pick up for as a beginner, but also capable of a lot in the hands of a power-user.
+
+
+Thanks for much for checking it out. Please let me know what you think and leave some feedback in the comments. "
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+"Many people will tell you that Bitcoin is king.   
+
+
+  It would be hard to argue against their point but I'd like to specify that Bitcoin does in fact appear to be a king, king of speculation. It has become an online casino for the uninformed and indifferent and while it has drawn mainstream attention to some of the many benefits of modern cryptography and distributed ledger technology, it has also become a burdensome anchor, weighing down new projects and forcing developers to consider appeasing a fickle speculative market when they could be making real progress on the tech side off things. Immoderate use of phrases like ""to the moon"" or ""wen lambo?"" superfluously congest all communication channels and misinformation proliferates perpetually by a crowd that simply can't be reasoned with. I won't even get into the subjects of apparent coordinated downvoting and the suspected existence of dedicated agenda pushing groups because that in itself would be speculation, although a strong case can be made based on the regularly submitted evidence. While there has been remarkable progress made in the general crypto-space infrastructure, the point is- There's still a lot left to be desired.
+
+ Some might say that this is it, this is as far as it can go, but until grandma is using crypto (whether she knows it or not), then I wouldn't be so quick to rule out new advancements. 
+
+So while Bitcoin may be king of speculation and it clearly leaves room for improvement, then perhaps an as-of-now undiscovered or yet-to-be created crypto will quietly rise up the ranks to the position of king of adoption based simply on meeting the common general desires for convenience, scalability/functionality, privacy, and security of investment (both network protection and relative stability in price).  
+
+
+  These are primary areas of interest that will require continual improvement. Rght now Bitcoin sits relatively stagnant considering the many technological innovations that have been made in the decade since it's inception. 
+
+&amp;#x200B;
+
+  I do have a project in mind myself but we all know how that'd go if I included it, so I won't. Also, the point of this post is to exchange information with each other, not push a project. With that in mind, are there any projects that you feel exceptionally passionate about and that you believe has the potential to break on through to grandma and ultimately, global mainstream adoption?
+
+&amp;#x200B;
+
+Please don't just list names, I know some still will but please try to read the question before you answer.
+
+Give examples of what it is that makes your project so pervasive (issuance model, incentives, true decentralization).
+
+If use case is your example, please specify why.
+
+Please try to be helpful/respectful. If you need to say things like ""u all idiots u gonna lose everything"", then just say it to yourself in your room all alone. I will never understand the mentality behind a real thinking person saying something like that. How did you even end up here, clicking through links, apparently reading up on this? If you're a professional troll or simply a general ""misery seeking company"" type, just find somewhere else to try to spread that.
+
+&amp;#x200B;
+
+Also, since we are discussing adoption and areas that can be improved upon, what are your ideas that can improve things in crypto overall?"
+
+
+
+"The Gambling industry is plagued by a host of issues and inefficiencies - the result, a lack of trust between players, developers and services providers due to multiple intermediaries, high fees and unintuitive user experiences. There is an urgent need for an overhaul of the 
+whole online gambling system. A major solution to a fair and modern gambling system is a decentralized gaming platform that leverages the advantages of blockchain technology.
+Faireum is a public blockchain with a set of protocols, which focuses on the gambling industry and provides a decentralized, low cost, transparent, and secure betting and gambling experience. Faireum uses its own native currency and smart game contract to guarantee a superb and premium betting experience and services in lotteries, sports 
+betting, casino games and other digital games to users. Faireum releases a smart client based on the set of protocols for the creation of a trustful, borderless, secure, and fast online 
+gambling network that benefits all.
+       
+
+        The Industry
+In 2017 the global gambling industry was valued at $533 billion, with future predictions putting that figure at 1 trillion USD by the year 2021. As the online gambling marketing continues to 
+experience consistent growth, spurred on by the emergence of new technologies and the increased accessibility of the internet, Asia has established itself as the fastest growing 
+iGaming market in the world.
+Another decisive growth factor is the adoption of smartphones that provides ease of access to the online and mobile gaming worlds. Other important changes that have taken place in the gambling sector are related to the incumbent regulatory framework that governs it. 
+Regulators are looking for solutions that ensure fair gaming for all, prevent illegal activity and protect consumer rights.
+At present, the gambling industry is shrouded by negative perceptions that are exacerbated by high transaction costs, low returns, inefficient cost structures, the involvement of intermediaries in the bookmaking process, lack of security of transactions, transparency and stagnation
+
+Website: https://faireum.io
+
+Bountyox username: Confiance0665"
+[removed]
+
+
+"Transparency in crypto - coinpaprika latest update
+
+&amp;#x200B;
+
+As we all know transparency in the crypto environment is hard to achieve - there is still a lot of work to do. But as there are data available now - waiting to be collected and displayed, we have made this new feature - our new tab called Transparency - to show that there is a possibility to achieve it right now.
+
+&amp;#x200B;
+
+With our new Transparency tab, we can check the difference between prices of assets, the status of exchanges, and liquidity of markets (calculated for orders within 10% span of the spot price).
+
+&amp;#x200B;
+
+It's our new tool for everyone that wanted more accountability and trust in this sphere.
+
+&amp;#x200B;
+
+This tool is still under development and is intended to be much more complex - we welcome any suggestions as to what specific functionalities should be added in the future.
+
+&amp;#x200B;
+
+The transparency tab is available at [https://coinpaprika.com/transparency/](https://coinpaprika.com/transparency/)"
+" As the official announcement from Huobi DM reports, BCH/USD contracts pair will be released on this Friday SGT 18:00 Friday (April 5, 2019). Following the XRP contract on Huobi DM, the BCH contracts offers Weekly, Bi-weekly and Quaterly trading type. Investors can either go long or short with margin trading system. Huobi DM offers zero Clawback and Stop-loss and Take-Profit specially to meet BCH contracts user in case of market fluctuation.
+
+BCH fans can enjoy Trigger order and Zero clawback. The trade will start on this Friday. BCH Margin trading, stay tuned at SGT 18pm on April 10, 2019
+
+**Huobi Derivative Market (Huobi DM)** is an important extension of Huobi Global. Besides XRP contracts, Huobi DM currently offers weekly, bi-weekly, and quarterly cryptocurrency contracts for Bitcoin (BTC), Ethereum (ETH), and EOS (EOS), and Litecoin (LTC).
+
+**Website**: [www.hbdm.com](http://www.hbdm.com/)"
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+"I've been working on a trading tool for cryptocurrency investors. I originally shared it with y'all last year. Originally, it was a just a simple top 20 index (10% capped) with automatic monthly rebalancing.
+
+Since then, I've worked on building new features that enable custom index creation and backtesting. Here are the main features:
+
+Choose any # of coins in your index. This allows for large-cap indices, but also small-cap indices with different configurations e.g. Ranks 1-20, 20-40, 80-100, etc.
+
+Set percentage caps for minimum and maximum. Anything above a maximum cap gets redistributed to all the coins below by weighted market capitalization until the entire sum of the portfolio adds up to 100%.
+
+Weigh the coins in the index evenly, by market cap, or square root market cap
+
+Blacklist any coins from the index, and it will replace it with the next highest coin by market cap.
+
+Schedule any automatic rebalancing period.
+
+Backtest strategy with real market data. Fees and rebalances are taken into consideration.
+
+This is what the interface looks like
+
+I really wanted to share an update with this community since I figured I'd get some awesome feedback here. It's completely free to use for any portfolio under $500.
+
+In the future, I hope to add more advanced customization based on volume, price change, momentum, etc. We'd like to add more sophisticated backtesting metrics.
+
+Let me know what you guys think! What matters to you? What would you like to see?"
+
+
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+"Hi guys! How are u? Have you saw the full list of speakers of Blockchain life conference? ( check [blockchain-life.com](https://blockchain-life.com))   
+Do u know smth about this? have u been there??"
+[removed]
+" **Besides developing our product, Elrond strives to cultivate an engaged and lasting community that adds value continuously. We recognize the community's contribution and reward our supporters with a part of our ecosystem. Join us**"
+
+[removed]
+
+
+
+
+[removed]
+"elrondnetwork tackles a very competitive and saturated marked of blockchain infrastructure projects like EOS, Zilliqa, PChain, and Quarkchain. All these competitors try to tackle the scalability issues and provide solutions that ensures a high TPS throughput while maintain relevant security levels. They are also going on another beaten path of the cross-chain interoperability, which is also tackled by many other projects such as Polkadot and PChain. It remains to be seen if the team will deliver a viable product that will take over the competition and integrate the network among the relevant blockchain infrastructure projects.
+Competitors’ valuations:
+Ethereum, valued $50B.
+EOS, valued $10B.
+Zilliqa, valued $650M.
+Hashgraph, raising $300M.
+Thunder, valued $100M.
+Kadena, raised $12M​.
+Algorand, raised $4M"
+
+
+[removed]
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Visa Card Withdrawal](https://kryptocal.com/event/26960/visa-card-withdrawal) | March 25, 2019
+[Repme(RPM)](https://kryptocal.com/coin/rpm) | [Swap Deposit Deadline](https://kryptocal.com/event/27115/swap-deposit-deadline) | March 25, 2019
+ | [OKEx C2C Launch Event](https://kryptocal.com/event/26961/okex-c2c-launch-event) | March 26, 2019
+[WAX(WAX)](https://kryptocal.com/coin/wax) | [Goldman Sachs Disruptive](https://kryptocal.com/event/27100/goldman-sachs-disruptive) | March 26, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+ | [KuCoin Blockchain Day](https://kryptocal.com/event/27130/kucoin-blockchain-day) | March 26, 2019
+[KuCoin Shares(KCS)](https://kryptocal.com/coin/kcs) | [KuCoin Blockchain Day 2019](https://kryptocal.com/event/27125/kucoin-blockchain-day-2019) | March 26, 2019 8:30 AM - 1:30 PM
+[KuCoin Shares(KCS)](https://kryptocal.com/coin/kcs) | [KuCoin Blockchain Day 2019](https://kryptocal.com/event/27126/kucoin-blockchain-day-2019) | March 26, 2019 8:30 AM - 1:30 PM
+
+
+&amp;nbsp;
+
+**Air Drops**
+
+ | | | 
+:--|:--:|:--|
+ | [Airdrop Qualification End](https://kryptocal.com/event/27187/airdrop-qualification-end) | March 26, 2019
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[Zcash(ZEC)](https://kryptocal.com/coin/zec) | [San Francisco Meetup](https://kryptocal.com/event/27012/san-francisco-meetup) | March 26, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+[removed]
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Zenon Distribution Cycle](https://kryptocal.com/event/27329/zenon-distribution-cycle) | April 2, 2019
+[Nebulas(NAS)](https://kryptocal.com/coin/nas) | [NOVA 1.0 Release](https://kryptocal.com/event/27085/nova-1-0-release) | April 2, 2019
+ | [Zenon Distribution Cycle](https://kryptocal.com/event/27330/zenon-distribution-cycle) | April 3, 2019
+ | [INATBA Launch](https://kryptocal.com/event/27416/inatba-launch) | April 3, 2019
+[KuCoin Shares(KCS)](https://kryptocal.com/coin/kcs) | [Kucoin Project Token Sale](https://kryptocal.com/event/27356/kucoin-project-token-sale) | April 3, 2019
+[Nexus(NXS)](https://kryptocal.com/coin/nxs) | [Weekly Development Update](https://kryptocal.com/event/27044/weekly-development-update) | April 3, 2019
+[Elite (1337)(1337)](https://kryptocal.com/coin/1337) | [Advertisers Webinar](https://kryptocal.com/event/27283/advertisers-webinar) | April 3, 2019
+[Wancoin(WAN)](https://kryptocal.com/coin/wan) | [Staking Pilot Begins](https://kryptocal.com/event/26684/staking-pilot-begins) | April 3, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+ | [Future Blockchain Summit](https://kryptocal.com/event/27355/future-blockchain-summit) | April 2, 2019
+
+
+&amp;nbsp;
+
+**Exchanges**
+
+ | | | 
+:--|:--:|:--|
+ | [ZB.com Listing](https://kryptocal.com/event/27414/zb-com-listing) | April 2, 2019
+ | [Bitmart Listing](https://kryptocal.com/event/27398/bitmart-listing) | April 3, 2019
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[Binance Coin(BNB)](https://kryptocal.com/coin/bnb) | [St. Petersburg Meetup](https://kryptocal.com/event/27415/st-petersburg-meetup) | April 2, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+
+[removed]
+[removed]
+
+"Lition is a blockchain infrastructure and dApp developer, with 20 employees mostly based in Berlin. Lition’s new blockchain infrastructure addresses key commercial and business issues that have prevented blockchain networks from reaching widespread mainstream adoption so far. With scalable public-private blockchain and ‘deletable’ data features, the Lition network allows businesses and large enterprises to bring innovative blockchain applications to the mass-market that are legally compliant. Lition is actively working with the German Government to provide a technical solution for the issuance of security tokens.
+
+&amp;#x200B;
+
+What drew me to the project was the rumour, later confirmed, of a partnership with the huge European software coproration SAP:
+
+[https://www.coinschedule.com/cryptocurrency/lition](https://www.coinschedule.com/cryptocurrency/lition)
+
+Here is info on the partner:
+
+[https://ycharts.com/companies/SAP/market\_cap](https://ycharts.com/companies/SAP/market_cap)
+
+&amp;#x200B;
+
+This is one of the biggest partnerships ever announced in the histroy of crypto and will present a brilliant trading opportunity at the least.
+
+&amp;#x200B;
+
+I don't have any profit targets but I will probably withdraw initial after I double my money which will be when we rise to about the 0.001 level again on the ETH pair.  
+
+&amp;#x200B;
+
+What do you guys think of this play? What are your low cap alts that you are HODLing now?"
+
+
+[removed]
+"Digital currencies are the new normal. Paper money is losing its value with every passing day and the digital currency is taking over. It’s a digital age and in this digital age [**Cryptocurrency**](https://b4uwallet.com/) is the new hype. Cryptocurrencies have taken the internet by storm since their inception and now the cryptocurrencies have created so much hype that people are buying them at insane rate. If you have money in your bank and you are an investor by heart there are options available for you in the digital market. The most famous cryptocurrencies are
+
+**Bitcoin, Ethereum, Bitcoin cash, Litecoin, Dogecoin and Ripple**. Out of all these options two stand out and these are **Bitcoin** or **Ethereum**.
+
+## The best one to invest in? Bitcoins or Ethereum?
+
+### The master of all Digital currencies is Bitcoin
+
+Bitcoins were launched in 2009 and it’s been the talk of town since then. Bitcoin was invented by **Satoshi Nakamoto.** This creator is anonymous and we don’t know about his or her whereabouts whatsoever. Though the identity of the creator of bitcoin is shady but bitcoins are not. Though no government is involved in its purchase or sale still it’s reaching the sky limits of demand.
+
+[Read More](https://blog.b4uwallet.com/a-quick-guide-for-bitcoin-and-ethereum-investors-after-the-cryptocurrency-booming/)"
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+Invest with optiontradeinvest and Make a weekly passive profit of 20% with 5% referral bonus .
+
+
+[removed]
+[removed]
+
+
+[removed]
+
+"Bitforex uses this high fake trading volume to lure unsuspecting customers by making them believe that they are a top exchange. However with their fake volume that isn’t the case. Bitforex then makes money on these additional customers with the fees they charge for activity on the exchange.
+
+Full article [here](https://medium.com/@sallyalexon/bitforex-the-biggest-wash-trading-exchange-in-the-world-8245e9ca910a)"
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+"At NEO DevCon, NASH unveiled their [new website](https://nash.io/) and [their referral program](https://nash.io/referrals?code=eyVKs6). Nash Community members are among the first to receive seed codes for the referral program giveaway! The full exchange platform will go live in a private beta for Community members on 31 March 2019, shortly before the public product launch.
+
+&amp;#x200B;
+
+Please use my link - [https://nash.io/referrals?code=eyVKs6](https://nash.io/referrals?code=eyVKs6) and sign up.
+
+&amp;#x200B;
+
+Disclaimer - I am an investor in NASH."
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+
+[removed]
+[removed]
+" Each and every project (the genuine and promising ones in special) have to deal with the speculators, who show their interest only because they hope to make some quick money. The difference is made by the project's ability to deal with any kind of potential community members, and I really think that elrondnetwork team found the best way to do it!"
+
+[removed]
+
+[removed]
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+"If you are interested in blogging and trying to earn income that way, I recommend Steemit and Scorum. Steemit is a blockchain social media staple and upvotes have worth, you can earn Steem and SBD (worth around $.4 USD), built in exchange to attain Bitcoin and Eth and all the big boy cryptos within seconds. 
+
+I am what you call a whale on Scorum, we are not worth so much right now (around $.04 USD) but we only began last year and started our big push post crowdsale just as the bear market began (sadly).
+
+If you want to earn some SCR by blogging about sports or anything blockchain, I can support you and get you some solid worth as we grow. We did reach as high as $.4 USD in the early phases and we really have a infinite ceiling as there is limited SCR in circulation.. catch us before the inflation hits and 1 SCR is worth $10. 
+
+Thanks for your time if you read this, come visit me here and say hi!
+
+https://scorum.com/en-us/profile/@brandonk
+
+Check out Scorum's stats here; 
+
+https://coinmarketcap.com/currencies/scorum-coins/
+
+https://explorer.scorum.com/en-us/
+
+Make an intro post, shout me out.. and I'll support you to the Moon! Thanks again for your time! :)"
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[ZenCash(ZEN)](https://kryptocal.com/coin/zen) | [Cotonou ASFL Meetup](https://kryptocal.com/event/26959/cotonou-asfl-meetup) | March 23, 2019
+
+
+&amp;nbsp;
+
+**Software/Platforms**
+
+ | | | 
+:--|:--:|:--|
+[Steem(STEEM)](https://kryptocal.com/coin/steem) | [MainNet Release](https://kryptocal.com/event/24525/mainnet-release) | March 24, 2019
+
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+[Callisto Network(CLO)](https://kryptocal.com/coin/clo) | [AMA with Dexaran](https://kryptocal.com/event/27129/ama-with-dexaran) | March 24, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+ | [NYC Tech Family Office](https://kryptocal.com/event/26582/nyc-tech-family-office) | April 10, 2019
+[SmartCash(SMART)](https://kryptocal.com/coin/smart) | [SmartCash Kroger Meetup](https://kryptocal.com/event/27399/smartcash-kroger-meetup) | April 11, 2019
+
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Murmur 2.0](https://kryptocal.com/event/27045/murmur-2-0) | April 10, 2019
+ | [OKEX C2C Launch Event](https://kryptocal.com/event/27151/okex-c2c-launch-event) | April 10, 2019
+[Storj(STORJ)](https://kryptocal.com/coin/storj) | [Q1 Town Hall](https://kryptocal.com/event/27332/q1-town-hall) | April 10, 2019
+[Crown(CRW)](https://kryptocal.com/coin/crw) | [MNPoS Consensus System](https://kryptocal.com/event/27400/mnpos-consensus-system) | April 11, 2019
+
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+[Kore(KORE)](https://kryptocal.com/coin/kore) | [Fork](https://kryptocal.com/event/27122/fork) | April 11, 2019
+
+
+&amp;nbsp;
+
+**Air Drops**
+
+ | | | 
+:--|:--:|:--|
+[BlockTrade(BTT)](https://kryptocal.com/coin/btt) | [AltCoinTrader BTT Support](https://kryptocal.com/event/27121/altcointrader-btt-support) | April 11, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [First Burn](https://kryptocal.com/event/26733/first-burn) | February 22, 2019
+[Bitcoin(BTC)](https://kryptocal.com/coin/btc) | [CME: February Last Trade](https://kryptocal.com/event/25978/cme-february-last-trade) | February 22, 2019
+[Bitcoin Cash(BCH)](https://kryptocal.com/coin/bch) | [BCH/BSV Hardfork](https://kryptocal.com/event/26821/bch-bsv-hardfork) | February 22, 2019
+[SmartCash(SMART)](https://kryptocal.com/coin/smart) | [Anarchapulco 2.0](https://kryptocal.com/event/26108/anarchapulco-2-0) | February 22, 2019
+[CloakCoin(CLOAK)](https://kryptocal.com/coin/cloak) | [Binance Delisting](https://kryptocal.com/event/26842/binance-delisting) | February 22, 2019
+[Stratis(STRAT)](https://kryptocal.com/coin/strat) | [Sponsors Degale Fight](https://kryptocal.com/event/26741/sponsors-degale-fight) | February 23, 2019
+
+
+&amp;nbsp;
+
+**Air Drops**
+
+ | | | 
+:--|:--:|:--|
+[Spots(SPT)](https://kryptocal.com/coin/spt) | [EtherFlyer SPT Airdrop](https://kryptocal.com/event/26711/etherflyer-spt-airdrop) | February 22, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+[Cashaa(CAS)](https://kryptocal.com/coin/cas) | [Blockchain Summit India](https://kryptocal.com/event/26442/blockchain-summit-india) | February 22, 2019
+
+
+&amp;nbsp;
+
+**Meetings**
+
+ | | | 
+:--|:--:|:--|
+[IoTeX(IOTX)](https://kryptocal.com/coin/iotx) | [Traddiotional Bi-weekly AMA, 22 Feb](https://kryptocal.com/event/26856/traddiotional-bi-weekly-ama-22-feb) | February 22, 2019 2:00 PM - 4:00 PM
+
+
+&amp;nbsp;
+
+**Partnerships**
+
+ | | | 
+:--|:--:|:--|
+[Cappasity(CAPP)](https://kryptocal.com/coin/capp) | [Partnership Announcement](https://kryptocal.com/event/26740/partnership-announcement) | February 23, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+[removed]
+"Almost everyone knows Bitcoin's consensus protocol works based on proof of work, and eos adopts the delegated proof of stake consensus algorithm,
+Ever seen a cryptocurrency project that uses both proof of work and proof stake, i know it sounds awkward right? but a cryptocurrency where security and anonymity is of the utmost priority , veil has managed to bring these consensus to work closely together without causing any one undermining the other
+I wouldn't talk much about it, do the research yourself and let me know what you think
+[Veil website](https://veil-project.com/)"
+[removed]
+
+[removed]
+
+
+
+
+
+"aQUEST
+INTRODUCTION 
+A decentralized application ( DApp) is a computer application that runs on a distributed computing system. DApps have been mostly popularized by distributed ledger technologies, mainly these tokens can be further explained by looking at blockchain technology. For example Ethereum Blockchain, where dApps are often referred to as smart contracts.
+Decentralized applications are stored on and executed by a Blockchain system. When we talk of something being decentralized, it simply means that it is not owned, controlled or managed by a single person or authority.
+BENEFITS OF DApp
+DApps mainly employ cryptocurrencies as the built-in medium of exchange. As a result, dApps could potentially dramatically boost the mainstream adoption of cryptocurrencies by exposing more people to it.
+It can theoretically, facilitate completely censorship resistant applications. As a result, it can be thought of as an application which hands back control to its users. Any changes to the dApps can only be performed through consensus.
+Users of decentralized applications enjoy a far more distributed approach. Any computation needed is done at different nodes, none of these nodes are instructing the other nodes. As a result, decentralized applications will not theoretically need any sort of downtime hence eliminating the need for a single entity.
+However:
+aQuest is a unique decentralized app that pays you for completing a certain task. Simple as that. It is being developed by Enkronos. Its credit system is already tokenized on a private ledger and it is a shared resource among all the products published in its platform. The final goal is to adopt AQU token as its internal fuel, creating a public ledger blockchain-based aQuest platform.
+In order to reward the users the platform has developed varieties of simple tasks like; 
+Facebook,  for this case you will be rewarded after completing simple tasks like sharing, liking and commenting on certain facebook posts as you will be directed 
+Survey, for this case you will be required to answer some questions about certain projects or programs. In some cases you will be given various answers from which you can pick the one that best fits you about a particular question being asked. 
+If the quest is an airdrop quest, the signee can obtain valid ERC-20 tokens at the end of the airdrop.#AQU,  #aquest, #ico Click the links below for more information and offers 
+
+FEATURES OF THIS PROJECT 
+This project has gotten varieties of features simply to satisfy its investors and users plus the cryptocurrency world as a whole which include the following .
+Secure
+aQuest is built on top of the Enkronos Apps stack and uses smart contracts to regulate signes for ERC20 quests.
+Rewards
+You can pay your signees in ERC-20 tokens. In future we plan to implement also PayPal, Credit Cards and other digital currencies.
+Variability
+aQuest can be a survey, a Bounty task, a Facebook like, watching an add, installing an app or catching a Pokemon on Pokemon GO.
+Enkronos Apps integration
+aQuests are a great way to help build up the Users Pool in Enkronos Apps.
+Mobile first
+Our Mobile first approach enables you to earn easily on your mobile device.
+Accessible
+Everyone can join aQuest, no restrictions, no KYC.
+Token information 
+Token.                                   AQU
+TypeUtility
+PreICO Price.                       1 AQU = 0.003 ETH
+Price.                                     1 AQU = 0.006 ETH
+Bonus.                                    Available
+MVP/Prototype.                    Available
+Platform.                                 Ethereum
+Accepting.                                   ETH, BTC, ENK, Fiat
+Minimum investment.                0.1 ETH
+Soft cap.                                      1,000,000 USD
+Hard cap.                                     39,000,000 USD
+Country.                                       Slovenia
+Whitelist/KYC.                            None
+Restricted areas.                        None
+
+For more information click the links below 
+Website  https://www.aquest.io/
+White paper  https://www.aquest.io/wp-content/uploads/2018/12/aQuest-Whitepaper-1.0.pdf
+Telegram  https://t.me/aQuest_io
+Facebook  https://www.facebook.com/aquest.io/
+Twitter  https://twitter.com/aQuest_app
+My bitcointalk username Gadithomason 
+Bitcointalk link profile https://bitcointalk.org/index.php?action=profile;u=993687
+My bounty0x username Gadithomason
+"
+
+
+
+[removed]
+
+
+
+
+
+"Making PoS secure and compelling
+
+Elrond has proposed a novel approach to consensus called “Secure Proof of Stake” combining eligibility through stake and rating, random validator selection and an optimal dimension for the consensus group.  
+
+
+The consensus protocol starts by randomly sampling a smaller consensus group out of all eligible validators in the shard (for reduced communication) using a randomness source derived from the previous block’s signature. The randomness source is unpredictable before the signing of the previous block. The sampling is deterministic, meaning that every node can compute the list of validators in the consensus group and the first node to be selected is the block proposer.  
+
+
+The block proposer aggregates transactions into a new block and sends this block to the validators in the consensus group for verification. Each validator will verify the validity of the block, process the transactions and if everything checks out will participate in the pBFT consensus. The voting in the pBFT is done for every validator by sending a signature for a multisignature scheme. If the proposer collects more than 2/3 + 1 signatures from the consensus group members, the block is considered validated, the aggregated signature can be added to the block and the block disseminated in the entire shard. The next consensus group will be randomly sampled using the new signature.
+
+&amp;#x200B;
+
+elrondnetwork
+
+&amp;#x200B;"
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+
+"OMG, trading volume is up by 73% in the past 48h! Here’s our analysis of the amazing performance of ETH, EOS, BCH and ADA.
+
+[https://coinedtimes.com/price-analysis-trading-volume-up-by-73-altcoins-leading-the-rally/](https://coinedtimes.com/price-analysis-trading-volume-up-by-73-altcoins-leading-the-rally/)"
+
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+[removed]
+
+
+
+
+"It doesn’t actually use your phone hardware to mine, which means your phone doesn’t get hot and your battery doesn’t drain. It’s the easiest way to mine, I’ve killed the app and when I open it again the mining has kept going. If you have any questions about the product the community is very active. 
+
+Pi is a new digital currency being developed by a group of Stanford PhDs. For a limited time, you can join the beta to earn Pi and help grow the network. To join Pi, follow this link https://minepi.com/RAF2018336 and use my username (RAF2018336) as your invitation code.
+
+You need an invite to join"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+[removed]
+[removed]
+
+
+[removed]
+[removed]
+
+
+
+
+
+ Getting close to testnet v.01 - The office view can sometimes be distracting  ElrondNetwork
+Xem Tweet của @Migranet1: https://twitter.com/Migranet1/status/1112623245713235968?s=09
+[removed]
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Security Token Summit](https://kryptocal.com/event/26567/security-token-summit) | April 8, 2019
+[Binance Coin(BNB)](https://kryptocal.com/coin/bnb) | [Real Estate Auction](https://kryptocal.com/event/27418/real-estate-auction) | April 8, 2019
+ | [Crypto Invest Summit](https://kryptocal.com/event/26568/crypto-invest-summit) | April 9, 2019
+[Streamr DATAcoin(DATA)](https://kryptocal.com/coin/data) | [Nordic IoT Week](https://kryptocal.com/event/27430/nordic-iot-week) | April 9, 2019
+[Autonio(NIO)](https://kryptocal.com/coin/nio) | [NIOX Snapshot 3 Begins](https://kryptocal.com/event/27331/niox-snapshot-3-begins) | April 9, 2019
+
+
+&amp;nbsp;
+
+**Conferences**
+
+ | | | 
+:--|:--:|:--|
+ | [Security Token Summit](https://kryptocal.com/event/26551/security-token-summit) | April 8, 2019 8:00 AM - 5:00 PM
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+ | [Utrecht Meetup](https://kryptocal.com/event/27249/utrecht-meetup) | April 9, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+[removed]
+[removed]
+[removed]
+[removed]
+
+
+[removed]
+
+
+[removed]
+
+[removed]
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+"I was using MinerGate because of the simple intuitive interface although many said that other pools have better performance. Starting with the latest version of xFast the hashrate went up, and I guess that now I use MinerGate because it's the most efficient and user-friendly mining app for newcomers."
+
+[removed]
+
+
+
+
+
+[removed]
+[removed]
+
+[removed]
+
+
+
+
+[removed]
+[removed]
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+"**TLDR: Got sick of managing a diversified portfolio, made a Binance trading bot that handles it for you.**
+
+During the 2017 Christmas Break, I realized I was spending close to 5 hours a month manually rebalancing my portfolio of \~20 cryptocurrencies weighted by market cap. I got sick of that pretty quickly so I decided to make a bot that uses Binance’s API to automatically handle that. For the memes, it’s called HodlBot.
+
+It’s been over a year since I quit my job and decided to work on it full-time. Here are a few things that it can do:
+
+**Build your own cryptocurrency index**
+
+Create your own index screenshot
+
+* Select two market cap ranks, and HodlBot will fetch all the coins in between. E.g. Coins 1-30, 50-100.
+* You can set minimum and maximum percentage caps. A minimum percentage cap will ensure that no allocation in the 
+* You can also choose between market cap weighting, square root market cap weighting, or even weighting.
+* Blacklist coins you want to avoid and HodlBot will replace it with the next highest coin by market cap.  
+ 
+
+**Create a custom portfolio**
+
+Choose what coins you want in your portfolio and how much they are weighted
+
+* Choose between fixed weighting, market cap weighting, or square root market cap weighting
+* Use modifiers to increase or decrease weightings (e.g. 2x market cap).  
+ 
+
+**Run Historical Backtest**
+
+Backtest Screenshot
+
+We pull cryptocurrency price data from exchanges in order, so you can backtest a strategy before executing it. Fees and rebalances are taken into consideration for the backtest.
+
+**Automatic Rebalancing**
+
+When the market shifts, a portfolio will drift away from its target allocation. Portfolio rebalances are automatically executed. You can choose to set your rebalancing period to whatever you want. We’ve written studies on rebalancing
+
+**How much does it cost?**
+
+To keep things affordable, we’ve made it free for all users under $500. For users above $500, it’s $10/month after a 14-day free trial.
+
+**Are there minimum account size restrictions?**
+
+No account minimums, but due to minimum trading limits on Binance, we recommend at least $200.
+
+Please feel free to ask questions and give feedback! I'll be lurking around the comment section."
+
+[removed]
+
+
+
+"Predict, learn and earn Bitcoin with zero risk.  
+
+
+*Download the SwissBorg Community app and start the Forecasting game.* 
+
+[*https://www.swissborg.com/community-app-referral*](https://www.swissborg.com/community-app-referral)
+
+&amp;#x200B;
+
+*Here's an invite code for you: 5OX5BEA* 
+
+You will receive 1,000 extra points if registering with referral code"
+
+[removed]
+
+
+[removed]
+
+
+
+" 
+
+#### FOR SECTORAL COMPANIES, PAYMENT SYSTEMS AND LOAN APPLICATIONS,  USER-CENTRIC DECENTRALIZED EXCHANGE AND P2P ESCROW TRADING
+
+&amp;#x200B;
+
+Short Description:
+
+ESAX Technologies For Everyone
+
+Full Description:
+
+ESAX Technologies, since 1999, is a company providing services on information security and software. Since 2018, we are been working on blockchain technologies. So far, we are been working on information security, software and payment systems in the textile and chemical sectors. We have created an ESAX token for intercompany payments and put into use as of this year.
+
+For ESAX, the blockchain is an opportunity. Blockchain unique to the central, high security, privacy protection features and P2P technology together, you can create a new world, the advantages that blockchain can bring, such as the absence of a central organization's control, high security anonymity, user full control and so on, ESAX is an online payment gateway that makes payments easier. ESAX offers global commerce tools that can be used to accept payments and build businesses. It allows enterprises to develop their own experiences and expand their businesses around the world. This payment service enables you to provide efficient support makes payment and money transfer procedures efficient and simple day-to-day transactions and cash management. If you find yourself in a situation where time is of the essence, you need to have a suitable facility that would enable you to make a quick transaction with anyone from wherever you are. It is precisely for these situations in life that we bring to you ESAX.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+ICO Start Date &amp; Hour:
+
+March 11, 2019 (11:00AM CST)
+
+ICO End Date &amp; Hour:
+
+December 31, 2019 (11:00AM CST)
+
+Homepage URL:
+
+[http://esaxcryptocurreny.tech/](http://esaxcryptocurreny.tech/)
+
+Whitepaper URL:
+
+[http://esaxcryptocurreny.tech/gallery/whitepaper-esax.pdf](http://esaxcryptocurreny.tech/gallery/whitepaper-esax.pdf)
+
+ICO Page URL:
+
+[http://esaxcryptocurreny.tech/ESAX-Token-Sale/](http://esaxcryptocurreny.tech/ESAX-Token-Sale/)
+
+&amp;#x200B;
+
+Project Founders:
+
+(please include linkedin, twitter or facebook profile links if available)
+
+Ayhan KARAKAYA
+
+CEO &amp; Co-Founder
+
+[https://t.me/blackrock81](https://t.me/blackrock81)
+
+[https://www.linkedin.com/in/ayhan-karakaya-776942162/](https://www.linkedin.com/in/ayhan-karakaya-776942162/)
+
+Sibel AKKOC
+
+CTO &amp; Co-Founder
+
+[https://www.linkedin.com/in/sibel-akkoc-67a151163/](https://www.linkedin.com/in/sibel-akkoc-67a151163/)
+
+Blockchain Platform:Ethereum
+
+Token Standard:ERC-20
+
+Total Tokens Supply:1.000.000.000.000.000
+
+Token for sale:600.000.000.000.000
+
+Coin Symbol:ESAX
+
+Initial Price for Investors: 1 ESAX  = 0.00000001 ETH
+
+Soft cap 10.000 ETH
+
+Hard cap 1.000.000 ETH
+
+Project Country:  **TURKEY**
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Twitter:
+
+[https://twitter.com/ESAXTechnologi1](https://twitter.com/ESAXTechnologi1)
+
+Facebook:
+
+[https://www.facebook.com/ESAXTech/](https://www.facebook.com/ESAXTech/)
+
+Youtube:
+
+[https://www.youtube.com/channel/UCHYmXtYQBdNKW8pFim3gJnQ](https://www.youtube.com/channel/UCHYmXtYQBdNKW8pFim3gJnQ)
+
+Medium:
+
+[**https://medium.com/@esaxtechnologies**](https://medium.com/@esaxtechnologies)
+
+Telegram
+
+[https://t.me/ESAXCryptocurrency](https://t.me/ESAXCryptocurrency)
+
+GitHub
+
+[**https://github.com/ESAXTech**](https://github.com/ESAXTech)
+
+BitcoinTalk:
+
+[https://bitcointalk.org/index.php?action=profile;u=2566155](https://bitcointalk.org/index.php?action=profile;u=2566155)
+
+LinkedIn:
+
+[https://www.linkedin.com/company/esax-technologies](https://www.linkedin.com/company/esax-technologies)
+
+Reddit:
+
+[https://www.reddit.com/user/ESAXTechnologies](https://www.reddit.com/user/ESAXTechnologies)
+
+&amp;#x200B;
+
+**Road Map:**
+
+**March 2019** :    Project Start
+
+ESAX Token Create
+
+Airdrop Start
+
+Token Sale Start
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**April 2019**:        Team Formation
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**May 2019** :         Research &amp; Development
+
+ESAXC Coin Create
+
+ESAX Tolen listing on exchanges
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**July 2019:**           Release of ESAXC MVP
+
+Release of P2P Exchange - Beta Version
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**September 2019**: Launched ESAXC APP
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**November 2019** : Release of P2P Exchange Trading Platform
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**December 2019**:   ESAX Token Sale Finished
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&amp;#x200B;
+
+**Token Distribution:** (Optional but Recommended – Fill in percentages)
+
+Token Sale 60%
+
+Airdrop &amp; Bounty 10%
+
+Hold Reserve  25%
+
+Marketing 5 %
+
+**Bonuses**:
+
+%25"
+"My name is Jez an 18 year old boy from Africa. Today happens to be one of the bad day of my life coz I can't believe and understand what happened to me, I am an AIRDROPER on part time coz am still at college I received this sweet token which I sold and get myself the token I want to have in my wallet. I bought myself $10worth of DNT same as LTO. My plans on this coin are so huge that whenever I checked them I feel relieve not knowing I'll still be a victim of hacker. I woke this morning to check my investment and I saw nothing in my wallet I asked my godfather in crypto about my issue and he gave me $5 from my stolen investment. I was so happy but I don't understand how I loose my so called fortune. I'll like if anyone can explain the step I'll take next to prevent myself from this to happen to me again. Am short of $6 to my investment I would love if anybody can help me on that.
+Here is my wallet: 0xc1B0Ef510C84F0B749143ad4A565d4c2823bC2d1 Here is my compromised wallet: "
+"In the past 3 months, we have been searching **far and wide** for an upcoming ICO that **isn't a scam.** This journey took us all the way to Transylvania, where we found a project that is not only extremely talented, and far ahead of their competition, but also are raising less than 5 Million USD. After further investigation, we think to have found another gem with a potential upside bigger than that of our last partner LTO Network.
+
+We would like to introduce to you Elrond Network’s journey, as written by their Head of Communication: Dan.
+
+# Elrond’s journey in 1000 words.
+
+Why did [we start Elrond?](https://medium.com/elrondnetwork/hello-world-elrond-is-here-1a314ff585be) The answer to this question has a lot to do with intuition. In September 2017, as the ICO craze gained momentum, there were two problems that seemed imminent and pressing: limited scalability, and PoW’s unsustainable carbon footprint. That’s not to say that there weren’t any attempts to solving these, it’s just that at that point they were either merely theoretical, or difficult to implement (can’t change an engine whilst driving).
+
+Our team already had a deep understanding of the underlying technologies, and significant market insight owing to skin in the game, so getting the Elrond project going came naturally.
+
+Some of you can relate to the exciting times of getting the initial team together, and having those meetings in which you’d discuss intriguing problems and state of the art technologies. That was a time of intense exploration fueled by our purpose to build a value transfer protocol for the digital economy; one that can scale, is fast, and comparatively efficient.
+
+Our first office was basically two small rooms - we couldn’t fit the computers and all the people in the same room, so we had to split. Whenever someone had a presentation, and used the whiteboard, we all cramped into one room. But this modest beginning, motivated us to do better, and come up with novel ideas, that today have become written code.
+
+# Ideas are nice, but show me real progress.
+
+In May 2018 after considerable technical work, we made our Whitepaper (v1.6) public. At the time, many people were looking for their next big hit, so our inbox was flooded with requests on a daily basis. We could have just taken the money, but we chose to stand by our approach, setting a firm foundation and showing progress first, and afterwards, onboard people who understood our vision, and would help us achieve it.
+
+## Was the prototype going to prove us right or wrong?
+
+Two work-intensive months followed, and the result was the first version of the prototype. What we ought to say at this point, is that a prototype is by definition unfinished and unpolished, but still extremely useful.
+
+In our case the prototype validated the hypothesis that [we can do state sharding, and especially confirmed our model of doing cross-shard transactions.](https://medium.com/elrondnetwork/elrond-technical-progress-update-some-talk-about-it-we-build-it-3-2c556355d3ae) As you can imagine, this was a truly special moment for us, because the team’s hard work had tangible results. In a startup specific roller coaster, this was our first significant success.
+
+This taught us that sometimes you need to stop, look around, and re-calibrate your vision - so we decided to **ignore the schadenfreude, and continue executing on our long term plan.** Our strategy shifted towards a more [community](https://medium.com/elrondnetwork/elrond-community-update-2-b8b07351e4ce) based approach, and that lead us to travel the world, while actively seeking valuable feedback from our community. We’ve meet a great number of exceptional people in different countries around the globe, and built great support around our vision.
+
+[https://steemit.com/blockchain/@icodog/these-builders-self-funded-their-revolutionary-prototype](https://steemit.com/blockchain/@icodog/these-builders-self-funded-their-revolutionary-prototype)"
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+"No need to be afraid of loosing our privacy, Veil does it in a better way so that our transactions and identity remains untraceable on the blockchain. For more details. For more details visit https://veil-project.com #blockchain #veil"
+[removed]
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+[Stratis(STRAT)](https://kryptocal.com/coin/strat) | [Sponsors Degale Fight](https://kryptocal.com/event/26741/sponsors-degale-fight) | February 23, 2019
+ | [LYFE Trading Contest Ends](https://kryptocal.com/event/26692/lyfe-trading-contest-ends) | February 24, 2019
+[Tokenomy(TEN)](https://kryptocal.com/coin/ten) | [LYFE Competition Ends](https://kryptocal.com/event/26613/lyfe-competition-ends) | February 24, 2019
+
+
+&amp;nbsp;
+
+**Partnerships**
+
+ | | | 
+:--|:--:|:--|
+[Cappasity(CAPP)](https://kryptocal.com/coin/capp) | [Partnership Announcement](https://kryptocal.com/event/26740/partnership-announcement) | February 23, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Attends VidCon](https://kryptocal.com/event/26731/attends-vidcon) | February 16, 2019
+ | [Platform Design Release](https://kryptocal.com/event/26622/platform-design-release) | February 17, 2019
+[Waves(WAVES)](https://kryptocal.com/coin/waves) | [Additional Games](https://kryptocal.com/event/26670/additional-games) | February 17, 2019
+[Waves(WAVES)](https://kryptocal.com/coin/waves) | [First Waveslabs Grants](https://kryptocal.com/event/26671/first-waveslabs-grants) | February 17, 2019
+[Waves(WAVES)](https://kryptocal.com/coin/waves) | [Smart Assets Operational](https://kryptocal.com/event/26672/smart-assets-operational) | February 17, 2019
+[SCRIV NETWORK(SCRIV)](https://kryptocal.com/coin/scriv) | [Marketing Campaign](https://kryptocal.com/event/26460/marketing-campaign) | February 17, 2019
+
+
+&amp;nbsp;
+
+**Exchanges**
+
+ | | | 
+:--|:--:|:--|
+ | [P2PB2B.io Listing](https://kryptocal.com/event/26790/p2pb2b-io-listing) | February 16, 2019
+
+
+&amp;nbsp;
+
+**Conferences**
+
+ | | | 
+:--|:--:|:--|
+[NEO(NEO)](https://kryptocal.com/coin/neo) | [Developer Conference](https://kryptocal.com/event/26260/developer-conference) | February 16, 2019
+
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+[NAV Coin(NAV)](https://kryptocal.com/coin/nav) | [Hard Fork](https://kryptocal.com/event/26789/hard-fork) | February 16, 2019
+
+
+&amp;nbsp;
+
+**Partnerships**
+
+ | | | 
+:--|:--:|:--|
+[XinFin Network(XDCE)](https://kryptocal.com/coin/xdce) | [XinFin Partners with Stanford University for TreeHacks 2019](https://kryptocal.com/event/26783/xinfin-partners-with-stanford-university-for-treehacks-2019) | February 15, 2019 5:57 PM - February 17, 2019 5:57 PM
+[Waves(WAVES)](https://kryptocal.com/coin/waves) | [Partnership Announcement](https://kryptocal.com/event/26669/partnership-announcement) | February 17, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+
+[removed]
+
+[removed]
+
+[**https://simpleswap.io/**](https://simpleswap.io/)
+
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+
+
+
+[removed]
+[removed]
+"https://coinmarketcap.com/currencies/idealcash/
+
+they blocked me from twitter because i tweeted at them asking if it was another trashcoin / scam, everything looks so very shady about it, from the website, down to the 'team' behind it.
+
+idealcash $DEAL $DEALT
+"
+
+
+[removed]
+
+
+[removed]
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+"The Parksen services are divided  between PARQ Token  real-time Parksen parking app – of which a modest MVP  already exists – and the Green, Smart &amp; Connected City Platform. 
+
+Utilizing the Ethereum blockchain,  smart contracts, a universal ledger and a variety of IoT devices,  PARQ Token will create a truly sustainable and intelligent city development  platform. With the collected data, we will be able to battle back  against the ever-rising levels of traffic congestion and pollution that  are damaging life in large urban metropolises and small cities alike. 
+
+The Parksen parking app will use that  same data to guide drivers to available and affordable spots, while  municipalities, parking garages, companies and other users of the City  Platform can use the data to improve their own infrastructures.  This is a very serious project and very interesting for investment. Buy tokens now, they have a lot of advantages! #PARQtoken #GoGreen #SmartCity #SmartParking; https://www.parqtoken.com "
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Learn2Decentralize](https://kryptocal.com/event/26250/learn2decentralize) | March 18, 2019
+[SolarCoin(SLR)](https://kryptocal.com/coin/slr) | [Presents at RBS](https://kryptocal.com/event/26520/presents-at-rbs) | March 18, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+[removed]
+"Exscudo - a new kid on the blockchain block which aims to bridge the traditional world of finance with the latest in blockchain. Coloured coins as the potential to change how we store our day to day assets from our traditional point based system sushc has tesco club cards to our nectar and airmiles. Could this be the revolution we've been waiting for?
+
+&amp;#x200B;
+
+also launching debit / card cards backed by EON and a mobile multicurrency wallet called channels.
+
+&amp;#x200B;
+
+Redit link:
+
+  [https://www.reddit.com/r/EXSCUDO/](https://www.reddit.com/r/EXSCUDO/) 
+
+&amp;#x200B;
+
+Main website:
+
+ [https://exscudo.com/](https://exscudo.com/) 
+
+&amp;#x200B;
+
+Exchange:
+
+ [https://my.exscudo.com/#/](https://my.exscudo.com/#/) 
+
+&amp;#x200B;
+
+Channels application:
+
+ [https://channels.exscudo.com/](https://channels.exscudo.com/)"
+
+
+
+[removed]
+
+" 
+
+Elrond does horizontal scaling with State Sharding.
+
+Zilliqa tries to solve scalability by addressing half of the problem, and that is by doing network and transaction sharding - so they bring some of the solution and they can process about 2500 TPS (2828 TPS with 3600 nodes). They do not solve the hardest of the problem which is state sharding.
+
+State Sharding basically means for Zilliqa that every node in the network has to store the entire state of the blockchain. In very high throughput blockchains the storage requirements grow very fast. Elrond solves the storage problems, by also sharding state, so that every node in the network has to store just a part of the entire state, the one corresponding for it’s shard.
+
+Zilliqa still uses PoW in order to prevent Sybil attacks, while Elrond uses PoS, a much more energy efficient way to prevent Sybil attacks.
+
+Zilliqa stores all the Smart Contracts in a single shard, while Elrond will distribute Smart Contracts among all shards in order to be able to parallelize Smart Contract execution."
+
+
+
+[removed]
+
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [OKEx Talks 2019 - Mumbai](https://kryptocal.com/event/27297/okex-talks-2019-mumbai) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27450/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27451/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27452/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27453/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27454/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27455/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27456/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27457/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27458/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27459/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27460/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27461/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27462/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27463/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27464/public-testnet-launch) | April 27, 2019
+[Docademic(MTC)](https://kryptocal.com/coin/mtc) | [Public Testnet Launch](https://kryptocal.com/event/27465/public-testnet-launch) | April 27, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+
+
+[removed]
+"[Publish0x.com](https://www.Publish0x.com?a=YQdJ6AvdOG) is a fresh new competitor for Steemit.com
+
+Registering.
+The registering process was very easy. Done in a few minutes. Compared to Steemit this is a breeze. Email, password, username and you’re good to go. You’re ready to go in under a minute. 
+You can register [here](https://www.publish0x.com/register?a=YQdJ6AvdOG)
+
+Earning tokens.
+Right after you registered you can start earning tokens. Just open an article and scroll down. Then click on tip, verify you’re human and you’ve earned your first tokens. You always earn some BNTY, and besides that, some other tokens from a project that is sponsoring Publish0x at that time. At this time of writing that would be HYDRO. 
+
+It’s a very nice feature of Publish0x. They get sponsored in a way because the featured project provides the biggest part of the tokens that users can earn. So smart move there. And for the featured project it’s obviously a great way of marketing. Combined with some well written posts about the project, it’s an effective marketing campaign. Great way to promote a project. 
+
+If you want to earn tokens with writing, you have to become an author. You submit a request, provide some info about what you want to write about, provide an example of your writing if you have and promise you’ll be nice. (Only submit original content.) Then you wait for approval and you’re good to go. 
+
+A downside that I noticed before, is that articles get lost in the pile of always growing amount of articles. Yes, you can add tags so people can search on subject, but you should be lucky people just happen to look for that subject. And writing about a popular subject, means you back in that big old pile. Search results come up in order of date, so the last submitted article shows up first. 
+If Publish0x finds a way to organize their content in such a way that real quality content is accessible in an easy way, it will have found the golden formula. A great example of how to filter out content, is what reddit has done. No tags, but subreddits. This way the amount of content that is poured in, is filtered in an efficient way and new content in that specific interest group isn’t pushed to page 10 in a few hours. People get a chance to read it and tip it. That way the quality content gets a better chance to flow in on top into the popular pages. (Popular pages in that sub-subject, and if real good, into the main page.)"
+[removed]
+
+
+
+[removed]
+[removed]
+
+
+
+[removed]
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+
+
+[removed]
+
+
+
+[removed]
+[removed]
+
+ I think it's a great way how elrondnetwork incentivizes users to contribute to this community. Great job!
+[removed]
+
+
+
+
+"The beginning of the year makes KuCoin to own the rest of it. Since the launched of their platform 2.0 many opportunities have opened their doors.  
+See here why; [https://www.kucoin.com/news/en-KuCoin-Platform-V2-Upgrade-Complete](https://www.kucoin.com/news/en-KuCoin-Platform-V2-Upgrade-Complete)  
+"
+
+[removed]
+
+
+
+
+"[https://github.com/DunnCreativeSS/binanceMarketMaker](https://github.com/DunnCreativeSS/binanceMarketMaker)
+
+[https://imgur.com/B8sz2KN](https://imgur.com/B8sz2KN)
+
+This bot automates making markets on Binance.
+
+Where  other market making bots fail (ie. BitMex, Deribit, other attempts I've  made in the past) is by counting on the market to not be volatile.  Where this bot wins is by finding markets where we can soak up profits  in the volatility by taking those profits from the spread itself, where  on BitMex and Deribit these spreads ar 0.25$ of a BTC, some smaller  markets on Binance have 1%.. 2%... 5% spreads, and greater-than-average  volumes.
+
+You'll  want to have about $20 per market pair it's looking to trade, in the  base asset (BTC, BNB, ETH, etc...). It will look to trade more markets  if the targetSpread, targetVolDiv, targetVolMult are higher. The more  total funds in a particular base asset there are, the higher value the  orders will have.
+
+If  for whatever reason a market pair leaves the universe scope of  considered pairs, it will continue selling that asset with the same sell  logic (on the quoteAsset+BNB market), while pausing buying it.
+
+I  don't have enough personal funds available to run the bot, but I can  get a good amount of income if I share it and people use my ref link.  targetOrderSizeMult exists so that people can compete using the same bot  on the same markets without it just outbidding the other bot  constantly, as you can set a % of your order size to ignore when there's  a bid or ask better than yours. When the volume that beats your price  is higher than the order size \* this multiplier, it'll re-enter the  market.
+
+\--note  that you should never trust your API keys to a bot without proper code  review. Nefarious people out there will use your balance to manipulate  the price of very low liquid markets and pick up a huge amount of cheap  tokens from your hard-earned crypto--  
+'At the current time Binance rate limits are: 1200 requests per minute. 10 orders per second. 100,000 orders per 24hrs.'
+
+There are no limits for unfilled orders, and at most it'll make about 6x 20 or so pairs x 2 orders, 1 cancel and 1 re-post a minute, along with checking balance and getting order books so a total of about \~500 a minute - not close to 1200 :)
+
+On that note I've only been trading one pair, averaging 42 orders an hour or \~1000 per day, again by about 20 pairs would be 20 000 orders per day - a bit shy of 100k.
+
+[https://t.me/themarketmakerbot](https://t.me/themarketmakerbot)"
+
+
+
+
+
+
+
+
+
+
+
+
+"Hello everyone!
+
+We recently released beta of the Signals Platform. For the first time we introduced Signals Development Framework, which gives users flexibility and limitless possibilities in creating algorithmic strategies. Developing upon our Framework is intuitive and we’ve focused on making it very friendly to use. Backtesting tool to try out ideas is included! 
+
+List of features:
+
+- Cloud-based Development Framework which enables you to define your own strategies without installing anything on your computer
+- Backtest strategies on historical data, using the computational power of our data center — connect remotely from any device
+- Access various pre-built indicators to use as the basic building blocks of your strategy
+- Historical data from Poloniex — every trade for each asset is downloaded. More exchanges to follow!
+- Receive trading signals from strategies through Signals’ mobile app, coming soon both for iOS and Android
+
+Links:
+
+Platform: https://app.signals.network
+
+Website: https://signals.network
+
+Documentation: https://help.signals.network/framework-documentation
+
+Overview of the features: https://blog.signals.network/signals-platform-beta-is-open-to-the-public-ee47613d07d
+
+Dashboard screenshot: https://i.imgur.com/SVkfT0O.png"
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+"Crowdfunding is an important part of technology and i feel like it is failing. ICO is already dead and soon IEO hype will be dead so what will be next? According to Matt Curcio (VP of data at Ripple), Crowdfunding 2.0 is going to take off and will be a massive part of the technology space."
+
+
+[removed]
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Holding Event Ends](https://kryptocal.com/event/26379/holding-event-ends) | March 21, 2019
+ | [OKEx C2C Launch Event-UK](https://kryptocal.com/event/26936/okex-c2c-launch-event-uk) | March 21, 2019
+ | [OKEx Talks 2019 - Taipei](https://kryptocal.com/event/27028/okex-talks-2019-taipei) | March 21, 2019
+[IoTeX(IOTX)](https://kryptocal.com/coin/iotx) | [Live Bi-week AMA](https://kryptocal.com/event/27167/live-bi-week-ama) | March 22, 2019
+
+
+&amp;nbsp;
+
+**Exchanges**
+
+ | | | 
+:--|:--:|:--|
+[Kin(KIN)](https://kryptocal.com/coin/kin) | [BitForex Listing](https://kryptocal.com/event/27147/bitforex-listing) | March 21, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+ | [Mallorca Blockchain Days](https://kryptocal.com/event/26299/mallorca-blockchain-days) | March 22, 2019
+[Bitcore(BTX)](https://kryptocal.com/coin/btx) | [Mallorca Blockchain Days](https://kryptocal.com/event/26957/mallorca-blockchain-days) | March 22, 2019
+[Blockpass(PASS)](https://kryptocal.com/coin/pass) | [BlockchainUA](https://kryptocal.com/event/26958/blockchainua) | March 22, 2019
+
+
+&amp;nbsp;
+
+**Conferences**
+
+ | | | 
+:--|:--:|:--|
+ | [B&amp;B Conference Prague](https://kryptocal.com/event/26956/b-b-conference-prague) | March 22, 2019
+
+
+&amp;nbsp;
+
+**Software/Platforms**
+
+ | | | 
+:--|:--:|:--|
+[Groestlcoin(GRS)](https://kryptocal.com/coin/grs) | [Multiple Releases](https://kryptocal.com/event/27114/multiple-releases) | March 22, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+[removed]
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Token 2049](https://kryptocal.com/event/24960/token-2049) | March 13, 2019
+[Bitcoin(BTC)](https://kryptocal.com/coin/btc) | [Cboe XBT Expiration Date](https://kryptocal.com/event/26285/cboe-xbt-expiration-date) | March 13, 2019
+[Nexus(NXS)](https://kryptocal.com/coin/nxs) | [Weekly Development Update](https://kryptocal.com/event/27010/weekly-development-update) | March 13, 2019
+[aelf(ELF)](https://kryptocal.com/coin/elf) | [Token 2049](https://kryptocal.com/event/26926/token-2049) | March 13, 2019
+ | [Infrachain Summit](https://kryptocal.com/event/26823/infrachain-summit) | March 14, 2019
+
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+[Einsteinium(EMC2)](https://kryptocal.com/coin/emc2) | [Fork Details Released](https://kryptocal.com/event/26883/fork-details-released) | March 14, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+[removed]
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+" In Elrond the throughput increases linearly with the number of shards in the network.   
+
+
+Sharding is a scaling technique inspired by traditional concepts of database optimization. Also known as horizontal partitioning, sharding divides the data into several pieces placed on different environments to be processed.  
+
+
+The more validators and shards, the more transactions the network can process. Elrond is performing all network services with minimal energy and computational requirements. "
+
+
+[removed]
+
+[removed]
+
+
+
+[removed]
+[removed]
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"The advancement on today’s technology is never ending and might be overwhelming to some. We can see how older generations struggle to grasp the new technologies today.
+
+One of the technology that had been fast growing and revolutionizing is, Blockchain. So what is Blockchain? Blockchain is a decentralized ledger or records of transactions that is verified via a mathematical technique that is borrowed from Cryptography. This distributed ledger is considered as transparent and secure. Looking into it further, Blockchain is a global and open infrastructure in where other technologies and applications can be built. With Blockchain, it is believe that the use of intermediaries could be reduce or eliminated at all.
+
+As of now, Blockchain is considered as a tool to revolutionize and improve the structure and operations of traditional industries like the healthcare, entertainment, banking, music, gaming, banks, insurance, law firms and the government.
+
+Blockchain can indeed bring great advancement to the world however, one can ask if why it is not mass adopted yet. The possible answer to this is that there is no uniformity in the processes that involves Blockchain, may it be the developers or the users side thus, resulting to a delayed mass adoption.
+
+Some of the factors that can point this out is that unlike the internet, different Blockchains does not have a standard protocol to follow when developing an app/dapp as each Blockchain requires a different approach. Furthermore, most projects in Blockchain aims to overlap each other, not help improve each other. Today, you can see projects that have the same goals and initiatives, they aim to be the best in the field. Seeing this we can say that, they are aiming to achieve the better good for them and not for the masses.
+
+So how can this be addressed? How can Blockchain be mass adopted? The possible answer to this is, through uniformity.
+
+**A total mass collaboration**
+
+Imagine if different Blockchains could transform into one single identity? A single Blockchain that is compromise by all of the best features of different Blockchains? What if all crypto based projects in an industry would collaborate to offer the better good to everyone? This would surely make these projects and different blockchains reach its full potential as everyone does not aim to just overlap each other, but to improve further.
+
+**A standard on creating apps and dapps in each Blockchain**
+
+As creating apps and platforms in each Blockchain requires different approaches, the adoption of this technology by developers is not yet mainstream. So what if there is a standard way on how one can develop in each Blockchain? Would not that be more easy for developers and normal users to learn how this can be done?
+
+**A uniformed and simplified way for users**
+
+Imagine a platform that works like a google Playstore or an Appstore. Instead of normal apps, dapps and platforms that are developed in each Blockchain are featured. Making it simple for users to access and adapt to this technology in an easy way could make it more enticing to even the older generations.
+
+Blockchain is a great technology that have recently emerge in the world. However, people behind this technology should find a way on how this can be easily adopted by everyone in the world."
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+"Veil doesn't rely on any third party source or any external softwares, instead it creates a secure coin by providing a full time and high level privacy. For more details visit https://veil-project.com"
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+"Good Day All.
+
+&amp;#x200B;
+
+I am one of the core developers for the Crypto Currency - Plenteum.
+
+&amp;#x200B;
+
+We are pleased to announce our updated Light Paper and Road Map.
+
+&amp;#x200B;
+
+Wallets Available for Desktop, Web, Android &amp; iOS (Currently Pending App Store Release).
+
+&amp;#x200B;
+
+Whilst we might be small we are focusing on providing actual solutions for real use cases.
+
+Find us on Discord &amp; Telegram to have a chat, all questions are welcome and we will respond to the best of our capabilities.
+
+&amp;#x200B;
+
+Its all a learning curve!.
+
+&amp;#x200B;
+
+ [https://plenteum.com/](https://plenteum.com/) 
+
+&amp;#x200B;
+
+[https://plenteum.com/lightpaper2.pdf](https://plenteum.com/lightpaper2.pdf) \- Updated Light Paper Released 31 March 2019
+
+&amp;#x200B;
+
+[http://chat.plenteum.com/](http://chat.plenteum.com/) \- Discord
+
+&amp;#x200B;
+
+[https://github.com/plenteum](https://github.com/plenteum) \- Github
+
+&amp;#x200B;
+
+We are also currently trading on STEX, BISQ &amp; FCB.
+
+&amp;#x200B;
+
+Hope to hear from you guys!
+
+&amp;#x200B;
+
+&amp;#x200B;"
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Conferences**
+
+ | | | 
+:--|:--:|:--|
+ | [Minsk iGaming Conference](https://kryptocal.com/event/27031/minsk-igaming-conference) | April 24, 2019
+
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [OKEx Talks 2019 - Bangkok](https://kryptocal.com/event/27211/okex-talks-2019-bangkok) | April 25, 2019
+ | [OROX Raffle Ends](https://kryptocal.com/event/27428/orox-raffle-ends) | April 25, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+[BlockCAT(CAT)](https://kryptocal.com/coin/cat) | [Blockchain Expo Global](https://kryptocal.com/event/26424/blockchain-expo-global) | April 25, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+[removed]
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Security Token Summit](https://kryptocal.com/event/26567/security-token-summit) | April 8, 2019
+[Binance Coin(BNB)](https://kryptocal.com/coin/bnb) | [Real Estate Auction](https://kryptocal.com/event/27418/real-estate-auction) | April 8, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+"Disclaimer: This post is aimed at people who see value in POW consensus; it isn’t aimed at starting a discussion on the disadvantages of POW or the advantages of other crypto consensus. The post neither intends to start a debate on the futility of ASIC resistance and the advantages of higher hashrate at the cost of centralisation to those who manufacture ASIC. If you are one of the people who have a strong opinion on the above, then I request you to skip this post.
+
+TLDR: Here is the source code. CN-GPU uses 32bit floating point operations to beat ASIC’s. Hashrate is directly propotional to No of FP cores and more FP cores increases heat generation and power consumption, there is a physical limit to how fast the ASIC's can be due to size of Die, thermal limit,etc. 10X faster ASIC are unlikely let alone 100X
+
+Vive la résistance!
+
+CN History
+
+Before we divulge into CN-GPU. Let me first introduce you to the current situation of Cryptonote space and the fight against ASIC. ASIC’s first showed up at the end of 2017 bullrun. Coins which were based on cryptonote use cryptonight POW, it was assumed until then, that developing ASIC’s for CN was cost prohibitive. However with abnormal hashrate increases in different CN based coins particularly in Moreno, people begin to question the ASIC resistance of CN POW. Given the situation at that time, it was assumed that the abnormal hashrate increase was due to the interest in mining by the masses, few even claimed that the hashrate explosion was due to GPU farms powered by solar power. However when the enthusiasm died down in later months. The presence of ASIC became more apparent. Due to the secretive nature of ASIC manufacturing and development. It was only later that their presence was confirmed. To a GPU miner the results should be terrifying. ASIC could perform 64X(CNV8) better than GPU’s.
+
+The common theme among every attempt at ASIC resistance was making a minor change in CN POW. While such an approach bricked the current versions of ASIC’s, given few months they would come back. It seems that ASIC’s have been bitten by the crypto bug. Even in a bear market, the cost of fabricating a new batch of ASIC and putting them to work seems to be a profitable business venture.
+
+Let us look at the most well-known example of ASIC resistance – Monero. The developers first changed their POW in April to brick the AISC’s. by the time of Monero’s next hardfork later that year, the network was again riddled by ASIC/FPGA. Monero again changed their algo to to CNV8(the current version) and looking at the present situation, it would seem that ASIC have come back with a vengeance. Monero’s next hardfork is on march 9, while the current batch of ASIC will be bricked, some hardware specialists have expressed doubts against the next POW. Whether such doubts are justified, only time will tell.
+
+CN GPU
+
+Coming to the topic at hand. CN-GPU is developed by u/fireice_uk
+ and u/psychocrypt
+. The developers have previously made CN-Heavy which was later adopted by nearly 10 coins. In spite of low market cap(444K) and ranking(1300) of CN-heavy based RYO. After a period of nearly 8 months, ASIC/FPGA showed up on its network in late December. The devs could have claimed that the large miner was a GPU farm powered by solar. Instead the devs informed the RYO community about the possibility of FPGA/ASIC and started developing a new POW.
+
+CN-GPU is a complete rewrite of original CN POW and is based on 32-bit floating point operations. Namely addition, subtractions, multiplication &amp; division. It doesn’t rely on any fancy feature, instead anchoring its performance to physical no of cores. The algorithm is very through test for IEEE 754 implementation and has been tested on Intel SSE2, Intel AVX, ARM7, ARM8, NVIDIA, AMD.
+
+Some might argue that floating point maths can be done using AND/OR/XOR gates which can be pipelined by a ASIC manufacturer. While this is technically true, it should be noted that any computer operation can be reduced to a series of NAND gates. Just as you can solve bitcoin hash using pen and paper, you could also mine CN-GPU by using NAND gates, both the methods are inefficient. The best way to do floating point operations is through FP cores.
+
+Ah Ha! ASIC can be made with only FP cores. Before you rush to your nearest ASIC manufacturer with this idea. You should know that there is already an ASIC for Floating point operations - GPU. Yes, GPU can also be called as floating point ASIC because they are filled with FP cores. You don’t believe me and have already reached the ASIC manufacturer, since GPU’s are filled with FP cores, you propose a die which is twice the size of a normal GPU and you remove everything present on a GPU die apart from FP cores. first problem you would face is the wattage consumption and heat dissipation. since most power is consumed by FP cores in GPU, stripping everything apart from it and adding more FP cores would increase power consumption and heat generation. Again, the more no of FP core you add the more the watt and heat you have to deal with, you won't be able to add 60X time of FP cores. you still go ahead, Great you now have a machine which can mine CN-GPU. Since the only way to get more hash rate is through more Number of FP cores. To get 50X – 125X you will require 50X-125X of FP cores of normal GPU which isn’t feasible, however it is possible to make ASIC which are 2-3X that of GPU’s with 2-3X the FP cores. You now have a machine that is 2-3X faster than GPU’s. But at what price will you sell them? Will a person buy a $6000 ASIC which is only2-3X faster than a GPU? As of now there are no CN based coin in top 10.
+
+What about FPGA? Well by now, it shouldn’t come as a surprise that FPGA can mine CN-GPU. In fact all FPGA advertise TFLOPS(a measure of floating point operations) Bitman recently jumped into the market with their FPGA which can do 2TFLOPS. And if you have $10K lying around and buy the top of the line FPGA which is made by Intel. you would get 9.2TFLOPS. Sounds good right? Well if you have a vega 64 you would get 12.5TFLOPS. this is why deep/machine learning farms use GPU instead of FPGA’s the deepfakes some of you view for science are made possible by floating point ASIC aka GPU. And the reluctance of companies such as Google or Apple to make their own FP ASIC for their deep learning should speak volumes.
+
+You would be curious about the performance of CPU on the POW. The performance of CPU is limiting. The devs have acknowledged it and expressed their desire for closing the asymmetry in next iteration of POW (present L3 2MB scratchpads will be 3GB scratchpads) Taking a detour to express my personal opinion. CPU mining in spite of many years has failed to develop dedicated CPU mining communities like the ones we have for GPU mining. The lack of profitability is the major reason why we won’t see any large scale CPU mining communities. This isn’t saying that CPU only mining is not viable, if some coin manages to keep away botnets and server farms and ensures profitability of solo miners with ever decreasing supply, I would be delighted to see them succeed. Another valid criticism of CN-GPU is the lack of documentation. Given the little time the devs had (2 months), it would be fair to give them some time before demanding documentation. The devs are quite busy playing bingo, once they have free time, documentation would be made available on a silver plate.
+
+This brings us to the end of our post. CN-GPU doesn’t have any magic tricks up its sleeve, while it is possible to have ASIC’s on the network which are 2-3X faster than GPU's, the cost should prevent any large scale operations. This is not a perfect solution, it is however better than allowing ASIC to mine one’s network while waiting for the perfect solution. The POW provides a new path for projects who want ASIC resistance and are tired of playing the game of cat and mouse with ASIC."
+
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+[removed]
+"ICO industry shows good results in 2019  (in the end of 2018 40% of ICO achieved their goals (source) 
+
+Good tendency, right? But let’s take a look at STO numbers:
+
+STO has been gaining rapid popularity; according to Google Trends, the number of search queries for the term “STO” began to rise in September 2018 and reached its peak in November. ([source](https://coin360.com/blog/ico-market-review-and-trend-analysis))"
+[removed]
+[removed]
+
+
+[removed]
+
+
+"**INSTAR Blockchain is listed in the top ten on Block’tivity** for daily blockchain operations globally. Block’tivity is the number one authority for tracking daily blockchain operations and this is a huge milestone for Insights Network. 
+
+&amp;#x200B;
+
+INSTAR blockchain has achieved more daily operations than many of the projects, including extremely established cryptocurrencies with billions of dollars in market cap value: $LSK $ZEC $XMR $SRC $VET $DASH $DOGE $LTC $ETC $BCH $TFD $KMD $WAVES $TLOS $NANO
+
+&amp;#x200B;
+
+The majority of the daily transactions are coming from **instarwallet** **\[dot\]** **com**, the first application built by Insights Network. **Over 250,000 users have already signed up** to become KYC approved members on the Insights Network data exchange, making INSTAR Wallet one of the largest blockchain applications by number of users in the world."
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+"   
+
+Cube Chain Test Net Launching!
+
+Cube Chain Test-Net is open. Let’s check it out with CubeScan
+
+Hi everyone! This is Team Cube Chain.
+
+**Blockchain Platform ‘Cube Chain’ is ,finally, opening Test-Net.**
+
+Test-Net is used for testing blockchain’s development status in the same condition as Main-net. This means that before we get to Main-net, we can prepare our own independent blockchain system. With this Test-net launch, developers will go through lots of examinations and settle the technical check and stabilized system. Then, it will lead us to successful Main-net release. You can check on our Cube Chain’s core test-net version at Github. Also, you can actually see the generation of Cube and transaction status at CubeScan beta.
+
+Until now, white paper was the only way you could experience Cube Chain. But in here at [http://testnet.cubescan.io](http://testnet.cubescan.io/), you can actually experience how Cube Chain is functioning.
+
+**Cubescan beta**([http://testnet.cubescan.io](http://testnet.cubescan.io/)) is an Explorer web site that organized all the information written on Cube Chain.
+
+In here, you can find current status of Cube and block generation, specific details, block miner info, actual transactions occurred among wallets and their fees, and every token and their transactions created based on Cube Chain.
+
+[https://youtu.be/-8AtLjfFAsA](https://youtu.be/-8AtLjfFAsA)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+**\[Brief summary of Cube Chain Test-net\]**
+
+* Agreement Algorithm : POH (POW + POS Hybrid)
+* Block Generation Time : About 33 seconds (Expected average generation)
+* Programming Language : Go language
+* Official Website : [http://cubechain.io](http://cubechain.io/)
+* Explorer(Beta) : [http://testnet.cubescan.io](http://testnet.cubescan.io/)
+* Github : [https://github.com/cubechainofficial/CubeChain](https://github.com/cubechainofficial/CubeChain)
+
+Cube Chain is a brand new blockchain platform that creates Cubes and connect them. A Cube has 24 data blocks, and 3 special blocks in it. 3 special blocks are △Indexing Block, △Statistics Block, and △Escrow Block. CubeScan is well organized so that these special developmental structure of Cube Chain could be noticed easily.
+
+You can find every cube’s detailed contents as well as 24 data blocks, 3 special blocks’ hash values, previous and next cube’s hash values, merkle root, size, generation time, miner, transaction volume, rewards and their methods included in the cube. If you click on the hash value of 27 blocks in a cube, you can get access to block information and transactions information logged in the blocks.
+
+A transaction is a data containing trade information between wallets which shows actual trade log through Cube Chain Test-net. In the information, there are transaction time, traders’ info, amount, transaction fee, and etc.
+
+If you want to know what transactions were made with certain wallet, you can simply click on the wallet address to check. Transaction info, balance of the wallet, and daily trade volume are accessible. This is representative factor of decentralization, one of blockchain’s character."
+"Hello.
+
+I'm investigating (not for using it) about **services and ICO that let you rent or invest in mining farms**, when you don't want to do it by yourself or when you have expensive electricity where you are leaving and then can't do it by yourself.
+
+&amp;#x200B;
+
+=&gt; What would be the best active service providers, or future service provider (still in ICO), that you would recommend me to investigate?  
+Things like [batmine.io](https://batmine.io), [swissalpsmining.io](https://swissalpsmining.io)... 
+
+=&gt; What would you check before investing in it?
+
+&amp;#x200B;
+
+I'm looking for fresh and up to date information, it seems like lot of providers closed their door with the bear market.  
+Thx for your sharing :)  
+Eric."
+
+
+
+
+
+"**INSTAR Blockchain is listed in the top ten on Block’tivity** for daily blockchain operations globally. Block’tivity is the number one authority for tracking daily blockchain operations and this is a huge milestone for Insights Network. 
+
+&amp;#x200B;
+
+INSTAR blockchain has achieved more daily operations than many of the projects, including extremely established cryptocurrencies with billions of dollars in market cap value: $LSK $ZEC $XMR $SRC $VET $DASH $DOGE $LTC $ETC $BCH $TFD $KMD $WAVES $TLOS $NANO
+
+&amp;#x200B;
+
+The majority of the daily transactions are coming from **instarwallet.com**, the first application built by Insights Network. **Over 250,000 users have already signed up** to become KYC approved members on the Insights Network data exchange, making INSTAR Wallet one of the largest blockchain applications by number of users in the world."
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+"“Many token holders will be speculators, which is fine. We all are happy to make money, but a projects responsibility is to acquire as much talented and influential token holders as possible, and convert speculators into active community members.” by elrondnetwork  https://link.medium.com/fUawUInxsV"
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+[removed]
+
+"I am an engineer from India who passionately cared about finance. Large demographic right?
+
+&amp;#x200B;
+
+Regardless, I want to share my crypto-journey with you. It’s both a cautionary tale and the inspiration for a start-up I founded last year.
+
+I completed my education at a top tier engineering college in BITS Pilani, Rajasthan. While there, I took a keen interest in finance and worked hard to transition into getting into Piramal Capital, a PE fund based out of Mumbai. While I was there, I couldn’t help but notice the disparities in classes in a city like Mumbai. This disparity along with my stint in finance painted an ugly picture of the traditional economy where there are a few winners and a whole bunch of losers.
+
+The notion of middlemen and middleman fees in banking irked me because when we zoom out and look at the bigger picture, bank charges amount to millions of dollars every year. As someone who grew up with parents running a family business, this pain was sharper for us. For banks, their users only make money when the market goes up but banks make money regardless. Sometimes, they make money at the cost of the customer. So there’s no alignment of incentives between traditional banking/finance and the end user. So the industry just didn’t feel right for me. I left Piramal Capital and moved to Bangalore where I started working as the head of partnerships at TapChief. TapChief too wanted to make the economy a better place through skill sharing, and I thought that it may be a good place to understand money-making but deeply community-oriented start-ups.
+
+&amp;#x200B;
+
+I had first come across the world of cryptocurrencies and blockchain technology during the ‘Silk Route Bust’ that happened in 2013, and wrote it off as dark web currency or ‘drug dealer money’. I kept my sights on the currency and technology though, and continued my research into the space. I kept reading about the tech but didn’t actually invest until the first quarter of 2017, while working at TapChief. I ended up reading the Bitcoin white paper before investing in cryptocurrency, and was sold on the idea of blockchain technology, cryptocurrencies and the vision of Satoshi. I made a lot of money in crypto, and I lost even more. But I never lost faith in the technology itself.
+
+I continued my inquiry into Bitcoin, read about Ethereum and started exploring the other tokens in the market. I also started going for these blockchain meetups to increase my understanding of what was happening in the space.
+
+I knew that this technology and currency was going to be extremely powerful, but it took me some time to figure out the fact that this is what I wanted to get involved in. So I ended up quitting TapChief in October 2017, took a few months off to realize my intentions of being involved in the world of crypto. It was the fact that I had invested in the space myself that I knew what I wanted to create. In the short term, I wanted the product to help people who showed early faith in the tech (through cryptocurrency) to have a safe place to store, grow and use their cryptocurrency. In the long term, I wanted this to be a better bank which made financial services more customer-centric and made people’s lives better through easy access to capital.
+
+I came back from my brief vacation, and started doing research on what the market opportunities are, what the community cares about, what they’re vocal about, what they despise and what they stand for - and that’s where the **Bank of Hodlers** was thought about.
+
+&amp;#x200B;
+
+My background in finance and foray into the world of blockchain and crypto was a perfect marriage of two worlds, where one had the significant potential to disrupt the other. I knew that blockchain technology has the capacity to disrupt finance in a way that removed centralized entities. I realized that this domain had the capacity to provide banking and financial services to those that did not want to visit a bank or a centralized financial institution to avail financial services. Such people were already in the market, i.e. the crypto holders. I just wanted to solve for the market.
+
+The Bank of Hodlers was started to serve this exact community, i.e. people who hold or are open to holding cryptocurrencies but aren’t traders. We believe that cryptocurrencies will eventually replace or surpass FIAT currencies in trade and volume, and we want to be ready for that. We want to be the bank of the future and solve for a market where people use crypto as a medium of exchange, for payments, and as a store of value.
+
+&amp;#x200B;
+
+We’re here with a product in our asset-backed lending service. With such a service, crypto-holders will be able to earn interest on their deposits.
+
+For lenders, the interest on deposits is dynamic, and will be updated to them every week. They will be able to earn interest on 4 major tokens (lenders will soon have the option to earn interest on 10 major tokens).
+
+People who want to borrow will have the option of borrowing DAI against Ethereum which is built on top of the MakerDAO protocol. Users will be able to borrow a loan at the click of a button at a governance fee set by MakerDAO. Bank of Hodlers won’t be taking any middleman fees. The option to borrow across Bitcoin, Ethereum, DAI and TrueUSD will open up within this year.
+
+Sign up for our product here: [https://app.bankofhodlers.com](https://app.bankofhodlers.com/)
+
+We would love to get as much feedback as we can."
+
+
+
+[removed]
+[removed]
+
+
+
+[removed]
+
+
+[removed]
+
+
+"[https://medium.com/certik/introducing-live-contract-audits-on-lto-network-with-certik-b159ada2157c](https://medium.com/certik/introducing-live-contract-audits-on-lto-network-with-certik-b159ada2157c)
+
+&amp;#x200B;
+
+Not to mentioned that CertiK will be using the LTO Network global public blockchain to anchor the Proof-of-Existence on their smart contract audit reports."
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+[removed]
+
+
+
+"Below is the Technical Benefits of FLETA
+1) Independent Multi-Chain Structure
+Less financial burden for both developers and users
+Limitless number of DApps can be accommodated
+
+2) PoF (Proof-of-Formulation)
+Prompt creation and dissemination of blocks
+Real-time confirmation through observer node, minimize unnecessary Fork
+
+3) Block Redesign
+Block size reduced by 43%
+1.8 times faster transaction processing speed
+Data storage optimally reduced
+
+4) LEVEL Tree
+90% reduced validation size, compared to Merkle Tree
+High quality transaction validation with less data reception
+5 times faster speed of transaction validation process
+
+5) Parallel Sharding
+Parallel action possible without double spending
+Focused on TPS enhancement through increase in shard numbers and each shard’s TPS
+Able to process 20,000 transactions per one second"
+
+
+[removed]
+[removed]
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+[removed]
+
+[removed]
+" SimpleSwap supports Bitcoin SV for exchanges in the normal mode. Primarily, SimpleSwap is created for the convenience of customers. We see that there is still a need to make BSV exchanges. If we delist BSV, we will let our customers down. Our service can not allow this!  
+[https://simpleswap.io/](https://simpleswap.io/)"
+
+
+
+[removed]
+
+
+
+"OOOBTC is a cryptocurrency exchange which offers crypto-to-crypto trading. The exchange offers trading in many rare coins like Golem, Status, Rchain, Zilika, etc. The most popular coin of the exchange is Ether. The exchange allows its users to exchange these coins between each other but not for fiat currencies. OOOBTC has a low trading fee of 0.25%, and it doesn’t charge deposit fees for cryptocurrencies but charges miners’ fee for crypto withdrawal. The exchange offers a nice looking platform with charts, analysis tools and indicators which can be very helpful for the advanced traders. The exchange provides wallets support for its clients, particularly for obscure coins for which fewer wallets are available. OOOBTC offers two-factor authentication and encryption of the users’ account information. To bolster the safety of the funds, the exchange stores them in offline cold storage. The exchange only offers an exchange of cryptocurrencies for each other; no fiat currencies can be used for selling and buying of the digital assets. The exchange does not offer margin trading, so the platform is not suitable for the traders who don’t want to own coins but only speculate over the prices. The exchange does not offer anonymous trading; clients are required to verify themselves prior to trading. The exchange has set a withdrawal limit to prevent theft and fraud. 
+
+\#ooobtc #obx #IEO #exchange #crypto #bitcoin #ethereum 
+
+ \#launchpad #blockchain #toqqn #dogecoin
+
+ \#Btk #usdt #Btcone #OVC  [www.ooobtc.com](https://www.ooobtc.com)"
+[removed]
+"*We love our community. There’s no way we could do this without you! So, we’re launching a special bounty today, with prizes for the best meme or gif about DRIFE .*
+
+*We’ll reward top 2 entries every week with $200 worth of DRF, this will run for 2 weeks. Among those 4 winners, the final winner will be chosen by the DRIFE community who will get $1000 worth of DRF.*
+
+*THE RULES*
+
+1. *Each entry must be original, not copied from another entrant*
+2. *You must be an active* *Telegram* *and* *Twitter* *subscriber*
+3. *Your entry can be published in two ways*
+4. *You can post it on our* *Telegram* *Group*
+5. *Tweet it to us on our Twitter handle: @Drife\_official*
+6. *We’ll choose and share the winner name every week and the DRIFE community will vote for the final winner*
+7. *We will not accept any offensive or disrespectful entries*
+8. *The competition is open for 2 weeks only: 10/04/19–24/04/19*
+9. *The DRF tokens will be allocated from the DRIFE Bounty*
+
+*DISCLAIMER:*
+
+*By submitting your entry, you agree that DRIFE has the exclusive right to redistribute your work in perpetuity, and DRIFE also reserves the right to use your entry in promotional or other materials as DRIFE sees fit.*
+
+*Follow us and stay up to date by clicking the links below:*
+
+*Website:* [*https://www.drife.one/*](https://www.drife.one/)
+
+*Bitcointalk:* [*https://bitcointalk.org/index.php?topic=5076512.msg48267959#msg48267959*](https://bitcointalk.org/index.php?topic=5076512.msg48267959#msg48267959)"
+
+
+
+
+"***What is AGROCOIN?***
+
+*AGROCOIN is an international project aimed at the creation of a P2P platform where people and companies can directly credit each other without intermediaries.*
+
+***HOW IT WORKS?***
+
+1. *Agrocoin has been issued by AgroExchange Estonia and is based on the popular and proven Blockchain technology. It’s an ERC-20 token based on Ethereum.*
+2. *Agrocoins are available immediately and you can instantly withdraw to your dedicated address using the META MASK or AgroDex application.*
+3. *Agrocoin allows you to participate in thee of company profit and to buy services and memberships on our platforms.*
+4. *Guaranteed Agrocoin trading will be available on our cryptocurrency exchange platform instantly after the of ICO sale.*
+
+*Agrocoin makes it possible to buy tokens on stock exchanges that sell crypto-currency at the current exchange rate on the site. Of course, such availability makes it attractive for potential investors, because currently, the market for the sale of tokens has undergone dramatic changes. If any existing token could be found on free sale and to purchase it, it was enough to have a minimum level of awareness about the world of crypto-currency. Now availability is possible only at the time of pre-sale. Even then, pre-sale is a short-term process and any potential investor needs to make a bold and thoughtful decision very quickly.*
+
+* [*https://bitagro.io/*](https://bitagro.io/)
+* [*https://bitagro.io/whitepaper.pdf*](https://bitagro.io/whitepaper.pdf)"
+
+
+[removed]
+
+
+
+[removed]
+[removed]
+
+
+
+
+"I like to read such news. it's very positive background for the crypto market:
+
+&amp;#x200B;
+
+**PayPal**, **SpaceX** and **Tesla** founder, tech hero Elon Musk said that he believes “the [Bitcoin](https://cryptonews.com/coins/bitcoin/) structure is quite brilliant” and crypto is a far better way to transfer value.
+
+However, in an interview on the podcast hosted by financial advisory and investment firm **ARK Invest**, a Tesla shareholder, Musk also said that “I’m not sure if it would be a good use of Tesla resources to get involved in crypto. We’re just really trying to accelerate the advance of sustainable energy.”
+
+&amp;#x200B;
+
+[https://cryptonews.com/news/elon-musk-praises-bitcoin-says-paper-money-is-going-away-3399.htm](https://cryptonews.com/news/elon-musk-praises-bitcoin-says-paper-money-is-going-away-3399.htm)"
+
+[removed]
+
+
+[removed]
+
+"Say hello to the **Monthly Roast my portfolio**.
+
+As the name suggest you can discuss portfolios, as long it follows [Rule 1, 2, 3 and 4](https://www.reddit.com/r/altcoin/about/rules/). Yes, in this thread you can forget Rule 5, so shill and talk TA.
+
+**Furthermore**: Please use the Roast my portfolio for *rate my portfolio*, *shill me your coins*, *what to buy* and/or *roast my portfolio* posts.
+
+Please note:
+
+* Check the sidebar for information
+* New to /r/altcoin? Please read [Altcoin glossary: A crypto jargon guide 101](https://www.reddit.com/r/altcoin/comments/6oblq6/altcoin_glossary_a_crypto_jargon_guide_101/)
+* Do your own research!
+* Referral = ban
+"
+
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+" This is a brief introduction into a lesser-known topic of Tolkien's mythology: the Valar. This topic is of great interest, as it explains many things that are not included in the ""Lord of the Rings"" books. Some of you might have already noticed that I have posted this text in the official elrondnetwork Telegram channel..."
+
+
+" Win races, earn ETH The more you win against others, the stronger your racehorse becomes. Put your elite horses breeding rights up for auction, where other users will bid for the chance to breed with your champion stud. Zed is selling the best racehorses in the entire ecosystem right now. Cryptokitties were sold for over $100,000, and you can buy yourself a Top-of-the-Line Racehorse right now for only $40 Join us on discord to get involved [https://discord.gg/NKa3FgS](https://discord.gg/NKa3FgS) "
+
+
+
+
+
+
+[removed]
+
+
+"Below is the Technical Benefits of FLETA
+1) Independent Multi-Chain Structure
+Less financial burden for both developers and users
+Limitless number of DApps can be accommodated
+
+2) PoF (Proof-of-Formulation)
+Prompt creation and dissemination of blocks
+Real-time confirmation through observer node, minimize unnecessary Fork
+
+3) Block Redesign
+Block size reduced by 43%
+1.8 times faster transaction processing speed
+Data storage optimally reduced
+
+4) LEVEL Tree
+90% reduced validation size, compared to Merkle Tree
+High quality transaction validation with less data reception
+5 times faster speed of transaction validation process
+
+5) Parallel Sharding
+Parallel action possible without double spending
+Focused on TPS enhancement through increase in shard numbers and each shard’s TPS
+Able to process 20,000 transactions per one second"
+
+
+
+[removed]
+
+[removed]
+
+
+[removed]
+[removed]
+[removed]
+
+[removed]
+
+[removed]
+"As the official announcement from Huobi DM reports, BCH/USD contracts pair will be released on this Friday SGT 18:00 Friday (April 5, 2019). Following the XRP contract on Huobi DM, the BCH contracts offers Weekly, Bi-weekly and Quaterly trading type. Investors can either go long or short with margin trading system. Huobi DM offers zero Clawback and Stop-loss and Take-Profit specially to meet BCH contracts user in case of market fluctuation.
+
+BCH fans can enjoy Trigger order and Zero clawback. The trade will start on this Friday. BCH Margin trading, stay tuned at SGT 18pm on April 10, 2019
+
+**Huobi Derivative Market (Huobi DM)** is an important extension of Huobi Global. Besides XRP contracts, Huobi DM currently offers weekly, bi-weekly, and quarterly cryptocurrency contracts for Bitcoin (BTC), Ethereum (ETH), and EOS (EOS), and Litecoin (LTC).
+
+**Website**: [www.hbdm.com](http://www.hbdm.com/)"
+" 
+
+WolfpackBOT is an out-of-the-box cryptocurrency trading software that aims to render mathematically accurate and fast trade through a proprietary trading algorithm, proprietary “Werewolf” Trading Analysis configurations, and customized settings based on personal trading style. The software also extends simultaneous trading access to all compatible cryptocurrency exchanges available on the bot.
+
+## The WolfBOX Hardware Console
+
+WolfpackBOT has built an optional hardware console, denoted as WolfBOX. It also offers a removable hardware wallet. The [WolfBOT](https://www.wolfpackbot.com/) trading software and removable hardware wallet come pre-installed in the WolfBOX. The hardware console is integrated with essential features including high-speed CPU, built-in RFID Reader, solid-state hard drive, and Bitpay and Coinbase wallets.
+
+## Features of WolfBOT
+
+WolfpackBOT offers some unique and interesting features including:-
+
+* **Multiple TA Indicators**
+
+WolfpackBOT provides an array of multiple Technical Analysis indicators, oscillators, configurations, and settings available in the Automated Cryptocurrency Trading Bots landscape. The ecosystem offers  Bollinger Bands, Double EMA, Elliot Wave, EMA, EMA Cross, Fibonacci Sequence, KAMA, MA Cross, MACD, RSI, SMA, Stochastic, Stochastic RSI, Triple EMA, and many more.
+
+* **Shorting Feature**
+
+WolfpackBOT encompasses cryptocurrency shorting features that enable users to short their positions and acquire back at lower prices in order to optimize their returns.
+
+* **Crash Protection**
+
+Crash Protection feature indicates the performance of the positions through proprietary Hidden Bear Divergence Indicator. It enables users to automatically scan and convert all positions to a stable coin and then buy them back into base currency in order to resume trading.
+
+* **All Trading Pairs**
+
+WolfpackBOT enables customers to trade on multiple cryptocurrency exchanges simultaneously.  The ecosystem makes it all possible on a single bot with one subscription package.
+
+* **Live Candle Scanning**
+
+Candlestick charts are effective technical tools that combine data for multiple time frames into individual price bars, making market analysis more efficient. WolfpackBOT offers live candle scanning and automatically detect patterns.
+
+* **Werewolf Configurations**
+
+Werewolf Configurations are copyrighted trading algorithms that use proprietary optimum settings in order to facilitate the seamless trading experience. Moreover, these configurations can be modified depending on the existing market trends.
+
+* **Paper Trading**
+
+Paper trading is a simulation of trading that enables users to test strategies in order to analyse their market performance in real-time without risking any funds.
+
+* **Market Orders**
+
+Market order includes buying and selling of order that is immediately executed at market prices.
+
+* **Limit Orders**
+
+Limit order is basically buying and selling of order at a fixed price.
+
+* **Sniping Order**
+
+A sniping order is referred to as a buy order that users buy on a specific tick.
+
+## The Wolfcoin Blockchain
+
+Wolfcoin (WOLF) is offered to traders as a utility coin that is redeemable for [WolfpackBOT](https://www.wolfpackbot.com/) subscriptions, WolfpackBOT hardware console, Wolfpack merchandise and apparel. The company intends to list on major exchanges, a post which the Wolfcoin will be available for trade.
+
+Wolfcoin (WOLF) Specifications
+
+* Coin Name: Wolfcoin
+* Coin Ticker: WOLF
+* Coin Standard: Proof of Work / Masternode (PoW/PoSe)
+* Maximum Theoretical Limit (by 2068): 1,000,000,000 (1 Billion)
+* Pre-mined: 30% Distributed in all stages of WolfpackBOT Crowdsale
+* Genesis Block: 300,000,000
+* Available in Crowdsale: 240,000,000
+* Algorithm: X11
+* Block Time: 60 Seconds
+* Masternode Collateral: 10,000 Wolfcoins
+* Reward Distribution: 80% Masternodes / 20% Proof of Work
+* Developer Fee: None
+* Governance: Yes
+
+## WolfpackBOT- The Fastest and the Most Secure Bot
+
+**WolfpackBOT** is developing an unconventional software with an aim to redefine cryptocurrency trading within its **WolfBOX** hardware console. The automated trading software is designed to execute trades at lightning pace via programmed proprietary trading algorithms and trader customizable functionalities, allowing traders to make precise trading decisions and maximize their ROIs."
+
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+[removed]
+
+"just saw this, tittiecoin have just burnt 100m coins, an 8 percent circulating supply
+
+&amp;#x200B;
+
+ Status: 0/unconfirmed, broadcast through 6 nodes Date: 18/02/2019 04:00 To: Burn Address TThanksForThatButGoodByeXXXXYaoR59 Debit: -100 000 000.00000000 TIT Transaction fee: -0.04703220 TIT Net amount: -100 000 000.04703220 TIT Transaction ID: f3b22a122d6b4d43112b9d0e8338caf143184ea780a23121e8c53bd6011a9b50 Output index: 0"
+
+
+
+
+ **Campaign: I see Elrond everywhere**
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+
+" The two problems that Elrond tries to solve are :
+
+1. throughput — achievable through sharding and 
+2. decrease in energy expenditure — achievable through moving from a proof-of-work based consensus to a proof-of-stake consensus. 
+
+ **elrondnetwork**   
+ "
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+[removed]
+
+Is it better than staying in a wallet?
+[removed]
+[removed]
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+"""Having a community of diverse skills gives any public blockchain, a huge amount of human resources to build with, and by using token economic incentives everybody can profit not just the ones at the top of the pyramid.""
+https://icodog.io/crypto-stories/icos-are-economies-not-companies/
+
+Elrondnetwork adopted the so called Social Mining model for their project.
+
+If you’re new to elrondnetwork and social mining, start learning by registering on the community platform:
+https://community.elrond.com/referral/epnoFgloxzs3gQS/"
+[removed]
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+I've seen this pop up on other subreddits quite a bit over the weekend. It's led by David Chaum who is of the original cypherpunks. He basically created cryptocurrency back in the 1980s with Digicash. This is their website for anyone that is interested: http://elixxir.io
+
+
+
+[removed]
+[removed]
+[removed]
+" 
+
+**elrond** stickers lord of the Shards
+
+📷"
+
+
+
+[removed]
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Infrachain Summit](https://kryptocal.com/event/26823/infrachain-summit) | March 14, 2019
+ | [Murmur Web Platform](https://kryptocal.com/event/26914/murmur-web-platform) | March 15, 2019
+ | [Yandex / Deex Connection](https://kryptocal.com/event/26952/yandex-deex-connection) | March 15, 2019
+ | [Whitepaper Launch](https://kryptocal.com/event/26953/whitepaper-launch) | March 15, 2019
+[GameCredits(GAME)](https://kryptocal.com/coin/game) | [Store Launch](https://kryptocal.com/event/26824/store-launch) | March 15, 2019
+[Veros(VRS)](https://kryptocal.com/coin/vrs) | [Veros Launch](https://kryptocal.com/event/27026/veros-launch) | March 15, 2019
+[Theta Token(THETA)](https://kryptocal.com/coin/theta) | [Mainnet Launch](https://kryptocal.com/event/26614/mainnet-launch) | March 15, 2019
+[Theta Token(THETA)](https://kryptocal.com/coin/theta) | [Mainnet Launch](https://kryptocal.com/event/26565/mainnet-launch) | March 15, 2019
+[Wancoin(WAN)](https://kryptocal.com/coin/wan) | [POS Pilot Address Opens](https://kryptocal.com/event/26654/pos-pilot-address-opens) | March 15, 2019
+[Wancoin(WAN)](https://kryptocal.com/coin/wan) | [Q1 Community Conf. Call](https://kryptocal.com/event/27025/q1-community-conf-call) | March 15, 2019
+[Mithril(MITH)](https://kryptocal.com/coin/mith) | [Machi X AtomicDrops](https://kryptocal.com/event/27024/machi-x-atomicdrops) | March 15, 2019
+[Plancoin(PLAN)](https://kryptocal.com/coin/plan) | [Exchange Launch](https://kryptocal.com/event/26681/exchange-launch) | March 15, 2019
+
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+[Einsteinium(EMC2)](https://kryptocal.com/coin/emc2) | [Fork Details Released](https://kryptocal.com/event/26883/fork-details-released) | March 14, 2019
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[ZenCash(ZEN)](https://kryptocal.com/coin/zen) | [Nigeria ASFL Meetup](https://kryptocal.com/event/26951/nigeria-asfl-meetup) | March 15, 2019
+[Ravencoin(RVN)](https://kryptocal.com/coin/rvn) | [Ravencoin SLC Meetup](https://kryptocal.com/event/26397/ravencoin-slc-meetup) | March 15, 2019
+
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+[ClearPoll(POLL)](https://kryptocal.com/coin/poll) | [Switch to ETH Blockchain](https://kryptocal.com/event/26906/switch-to-eth-blockchain) | March 15, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+
+[removed]
+[removed]
+
+[removed]
+ Have you been on any elrond meeting with community? I am curious how are these meetings. What did you talk? was there a fun? Did you find out the way to help elrond? Please share your experience!
+
+
+
+
+[removed]
+
+[removed]
+"If anyone is looking to still manage an active cryptocurrency or altcoin portfolio, it may be worth a thought to try out out [shrimpy.io](https://shrimpy.io).
+
+&amp;#x200B;
+
+It's a free automated crypto trading tool that focuses on passive indexing and rebalancing for exchange accounts. If you have accounts with any of their listed exchanges (Coinbase Pro, Binance, Bittrex, KuCoin, POloniex, Kraken, HitBTC, BiBox, Gemini) you can start automating your exchange assets like a personal crypto index.
+
+&amp;#x200B;
+
+[https://www.cryptostache.com/2019/02/21/easy-automated-rebalancing-of-your-crypto-portfolio-with-shrimpy/](https://www.cryptostache.com/2019/02/21/easy-automated-rebalancing-of-your-crypto-portfolio-with-shrimpy/)"
+
+
+" 
+
+# REVOLUTIONIZING THE OLDEST INDUSTRY IN THE WORLD
+
+&amp;#x200B;
+
+as it said on the [website](https://ggcico.io/)
+
+&amp;#x200B;
+
+Is that in worth? "
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+" 大家好！我准备来华生活，听说中国禁止使用推特和红网等国际平台，所以中国人使用红网的数量不多。我仍像继续使用。这里有没有中国朋友经常使用红网? 谁是中国人留个评论吧！  
+
+Hi guys! I am going to live in China. I heard that China prohibits using international platforms such as Twitter and Reddit, so the number of Chinese people using Reddit is small. Anyway,I still want to use Reddit. Are there any Chinese friends who use Reddit regularly? Chinese guys leave a comment, pls! "
+
+
+[removed]
+
+"Let's be with Veil if we want our security risk free and secure because Veil doesn't let our privacy exposed, which in my opinion matters me the most. For more details visit https://veil-project.com #blockchain #veil"
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Finance World Expo](https://kryptocal.com/event/26298/finance-world-expo) | March 6, 2019
+ | [Network Upgrade](https://kryptocal.com/event/26943/network-upgrade) | March 6, 2019
+ | [New Website Released](https://kryptocal.com/event/26998/new-website-released) | March 6, 2019
+[Bytecoin(BCN)](https://kryptocal.com/coin/bcn) | [Mainnet Hardfork](https://kryptocal.com/event/26540/mainnet-hardfork) | March 6, 2019
+[Nexus(NXS)](https://kryptocal.com/coin/nxs) | [Weekly Development Update](https://kryptocal.com/event/26944/weekly-development-update) | March 6, 2019
+[Aeternity(AE)](https://kryptocal.com/coin/ae) | [Minerva Mainnet Release](https://kryptocal.com/event/26822/minerva-mainnet-release) | March 6, 2019
+[ZenCash(ZEN)](https://kryptocal.com/coin/zen) | [Monthly Live Stream](https://kryptocal.com/event/26734/monthly-live-stream) | March 6, 2019
+[iBTC(IBTC)](https://kryptocal.com/coin/ibtc) | [IBTCTube Launch](https://kryptocal.com/event/26997/ibtctube-launch) | March 6, 2019
+[Mainframe(MFT)](https://kryptocal.com/coin/mft) | [Developer Edition Launch](https://kryptocal.com/event/26996/developer-edition-launch) | March 6, 2019
+ | [Product 2 Info](https://kryptocal.com/event/26971/product-2-info) | March 7, 2019
+ | [Token Burn](https://kryptocal.com/event/26999/token-burn) | March 7, 2019
+[Polis(POLIS)](https://kryptocal.com/coin/polis) | [PolisPay Open Beta](https://kryptocal.com/event/27001/polispay-open-beta) | March 7, 2019
+[EUNOMIA(ENTS)](https://kryptocal.com/coin/ents) | [CM Robot AI Full Launch](https://kryptocal.com/event/27000/cm-robot-ai-full-launch) | March 7, 2019
+
+
+&amp;nbsp;
+
+**Meetups**
+
+ | | | 
+:--|:--:|:--|
+[ZenCash(ZEN)](https://kryptocal.com/coin/zen) | [Mexico Meetup](https://kryptocal.com/event/26942/mexico-meetup) | March 6, 2019
+
+
+&amp;nbsp;
+
+**Fork/Hard Forks**
+
+ | | | 
+:--|:--:|:--|
+ | [CN Conceal Release/Fork](https://kryptocal.com/event/26896/cn-conceal-release-fork) | March 7, 2019
+
+
+&amp;nbsp;
+
+**Exchanges**
+
+ | | | 
+:--|:--:|:--|
+[Lisk(LSK)](https://kryptocal.com/coin/lsk) | [Bitpanda Listing](https://kryptocal.com/event/26945/bitpanda-listing) | March 7, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+"
+
+[removed]
+
+
+
+[removed]
+[removed]
+
+
+
+
+
+
+"Hi guys, Erecoin ICO Advisor here.
+
+&amp;#x200B;
+
+I want to know your thoughts on our project. Is it feasible? Critics are most welcome!
+
+&amp;#x200B;
+
+You want to sell your 3D model data but there is no such platform where you can sell it? Anyone want to print their 3D model data but no 3D printer at home?? Of course not. ERECOIN is the solution!  /r/erecoin 
+
+&amp;#x200B;
+
+The alpha MVP will finally be out in 2-4 weeks. Keep in touch!
+
+&amp;#x200B;
+
+P.s. There will be a contest upcoming for erecoin soon in March!"
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+[removed]
+
+"Blockchain-based market research and data exchange network, Insight Network, has today announced the release of their updated [**roadmap**](https://medium.com/insightsnetwork/2019-instar-roadmap-q-1-2-e17c70aecf14) for Q1/2 2019.
+
+**The company, which allows users to earn free INSTAR tokens while completing daily surveys, detailed plans for the project.**
+
+In an official post with a wide-ranging of information, Insights specifically narrows down their development to five aspects:
+
+&gt;*“****Distribution:*** *INSTAR token migration and cold wallet integration.*  
+&gt;  
+&gt;***Technology:*** *Improved surveys and data node/ block producer elections.*  
+&gt;  
+&gt;***Requesters:*** *All in one requester dashboard release.*  
+&gt;  
+&gt;***Providers:*** *2FA integration and encrypted messaging on Google Play.*  
+&gt;  
+&gt;***Adoption:*** *Requester onboarding and continued business development and marketing. “*
+
+The above points are a greatly summarized version of the roadmap, and readers are advised to check out the official release for a much greater understanding of future development.
+
+Along with the updated roadmap, Insights also announced several important milestones, showcasing the growth and development of the team and project.
+
+As the network continues to expand and improve adoption, Insights Network is now in the top 15K trafficked websites in the Philippines, according to Alexa.
+
+The project has also just had their one millionth survey question answered, according to a [**tweet**](https://twitter.com/instartoken/status/1110210248554369025); no doubt an encouraging step, for a company that will hope to have widespread adoption among the data requestors and survey industry.
+
+With a token migration set for May 1st, the future does look very bright for this project, made even more notable, as during this prolonged bear market, many projects are facing an uphill battle to stay solvent, let alone lay definitive plans for future growth and adoption.  
+Source: [https://blockspectator.com/insights-network-announces-new-q1-2-2019-roadmap-and-one-millionth-answered-survey-question/](https://blockspectator.com/insights-network-announces-new-q1-2-2019-roadmap-and-one-millionth-answered-survey-question/)"
+
+
+
+
+[removed]
+[removed]
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Blockchains**
+
+ | | | 
+:--|:--:|:--|
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27466/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27467/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27468/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27469/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27470/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27471/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27472/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27473/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27474/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27475/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27476/world-blockchain-sto-summit-dubai) | April 29, 2019
+ | [World Blockchain STO Summit Dubai](https://kryptocal.com/event/27477/world-blockchain-sto-summit-dubai) | April 29, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+
+[removed]
+[removed]
+
+https://rocash.com/?ref=114142712241808899777
+
+
+
+
+
+
+
+
+
+Now users like me don't need to worry about losing our privacy while making transactions on blockchain because Veil does it differently by not allowing anyone to know about it. For more details visit https://veil-project.com #blockchain #veil
+
+"I want to warn users that TradeSatoshi exchange began to actively  block user accounts and require the mandatory KYC-check.
+
+**All funds, deposits, withdrawals are freezed and disabled!**
+
+According to user reports, the next time you log in to your account, you'll just see this:
+
+&gt;Dear user please update your KYC details here        
+ You can update your KYC by update following documents            
+ A scan of your photo ID            
+ A selfie of your holding the photo ID      
+ Your Account must be match with that Id.  
+ 
+
+Or they can kick you out of your account if you're already logged in:
+
+&gt;On March 09, my account sudden log-out. When I re-login, it demands KYC.  
+ 
+
+Are you ready to give your ID to the third-rate exchange -  it's up to you.
+
+But note one important caveat: according to the rules of KYC-check  your account info must match your ID-data (see above). So if you had  registered with non real data (name, surname, date of birth) your KYC  would be rejected:
+
+​[https://i.redd.it/j22xi4pd82n21.png](https://i.redd.it/j22xi4pd82n21.png)
+
+And all this info in your account can't be changed - fields are read-only!
+
+Admins in their discord and in support tickets are repeating the same  bullshit about the reasons of KYC-check:  money laundering and  financing of terrorism (on the third-rate exchange without fiat pairs).
+
+​[https://i.redd.it/vft34hof82n21.png](https://i.redd.it/vft34hof82n21.png)
+
+The requests to withdraw previously deposited funds back to the owner address don't get any answers from Tradesatoshi-team.
+
+​
+
+**Be careful and take care of your funds, while you have time!**
+
+​
+
+Here are some messages from users from different forums and platforms (including their own discord):
+
+​[https://i.redd.it/hiy4d8om82n21.png](https://i.redd.it/hiy4d8om82n21.png)
+
+​[https://i.redd.it/mssrsteo82n21.png](https://i.redd.it/mssrsteo82n21.png)
+
+​[https://i.redd.it/hplc5kfp82n21.png](https://i.redd.it/hplc5kfp82n21.png)
+
+​[https://i.redd.it/bcsdfzuq82n21.png](https://i.redd.it/bcsdfzuq82n21.png)
+
+​[https://i.redd.it/65m3hfrr82n21.png](https://i.redd.it/65m3hfrr82n21.png)
+
+​[https://i.redd.it/9wsbzrss82n21.png](https://i.redd.it/9wsbzrss82n21.png)
+
+​[https://i.redd.it/5vo9rgtt82n21.png](https://i.redd.it/5vo9rgtt82n21.png)
+
+​[https://i.redd.it/nd4vfcou82n21.png](https://i.redd.it/nd4vfcou82n21.png)
+
+​[https://i.redd.it/kqyfm3pv82n21.png](https://i.redd.it/kqyfm3pv82n21.png)
+
+​[https://i.redd.it/n6z5uyrw82n21.png](https://i.redd.it/n6z5uyrw82n21.png)
+
+All these users had the first-level verification from Tradesatoshi.   And they could trade with a withdrawal limit of up to $2000  equivalent.   So all their deposits were legal.  But now they are freezed *without notifications*.
+
+​
+
+**I'm posting this to notify as many users as possible and let  them withdraw their funds prior blocking, and not  to end up hostages of  the situation. Then  they can freely decide, if they want to deal  with  such an exchange.**
+
+**That's what this is all about.**
+
+​
+
+***update***\*: How does look the exchange, which  is suddenly rising the BTC withdrawal fee to the insane amount - 400 000  sat?  Yes, it is Traidsatoshi. Just prior to the KYC-check. Binance  takes 50K sat, Traidsatoshi - 400K! Did they want to force users leave  more BTC on their balances to the time when KYC started? The more BTC on  the frozen balance - the  greater the incentive for users to accept the  KYC. **Hostages of the situation, as i said ealier.**
+
+​[https://i.redd.it/pu9dhjdvkin21.png](https://i.redd.it/pu9dhjdvkin21.png)
+
+[https://i.redd.it/55wke19rkin21.png](https://i.redd.it/55wke19rkin21.png)
+
+Not long ago, afraid of users displeasure, Traidsatoshi  significantly reduced fees.   Use this to withdraw funds, may be this won't last long.
+
+​
+
+And one very illustrative dialog from Traidsatoshi discord, which  shows what problems users have now, their displeasure and the lies of  Tradesatoshi staff. Read it:
+
+[https://i.redd.it/i2cbnlbrmin21.png](https://i.redd.it/i2cbnlbrmin21.png)
+
+Another dialog which clearly shows us, that Traidsatoshi **had not made any notifications prior KYC-check started**.  Pay attention at messages of user ""phael"". He is in a special group at  Tradesatoshi-discord - satoshians, so he is not a ""first day""- user, we  can rely on his words.
+
+​[https://i.redd.it/qchfdsbw4ao21.png](https://i.redd.it/qchfdsbw4ao21.png)
+
+***update***\*: *Some very reasonable comments at Bitcointalk:*
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50317285#msg50317285](https://bitcointalk.org/index.php?topic=1691388.msg50317285#msg50317285)
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50317654#msg50317654](https://bitcointalk.org/index.php?topic=1691388.msg50317654#msg50317654)
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50317834#msg50317834](https://bitcointalk.org/index.php?topic=1691388.msg50317834#msg50317834)
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50319160#msg50319160](https://bitcointalk.org/index.php?topic=1691388.msg50319160#msg50319160)
+
+[**https://bitcointalk.org/index.php?topic=1691388.msg50319780#msg50319780**](https://bitcointalk.org/index.php?topic=1691388.msg50319780#msg50319780)
+
+*are getting in response only the trolling-posts from some amazing Tradesatoshi-lovers:*
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50319871#msg50319871](https://bitcointalk.org/index.php?topic=1691388.msg50319871#msg50319871)
+
+[https://bitcointalk.org/index.php?topic=1691388.msg50320038#msg50320038](https://bitcointalk.org/index.php?topic=1691388.msg50320038#msg50320038)
+
+[https://bitcointalk.org/index.php?topic=1691388.480](https://bitcointalk.org/index.php?topic=1691388.480)
+
+***update***\*: *By the way, Tradesatoshi LTD was  dissolved in UK on July 2018:* [*https://beta.companieshouse.gov.uk/company/09878766*](https://beta.companieshouse.gov.uk/company/09878766)"
+
+[removed]
+
+[removed]
+
+
+
+"Hello, I would like to draw your attention to the project Veil. This is one of the best deals on the market. Veil is an absolutely anonymous cryptocurrency with its own wallet, the project is definitely worthy of attention, I think the Veil project will be recognized by the whole crypto community
+
+[https://veil-project.com/](https://veil-project.com/)
+
+[https://bitcointalk.org/index.php?topic=5065331](https://bitcointalk.org/index.php?topic=5065331)
+
+&amp;#x200B;
+
+&amp;#x200B;"
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+"Will Bitcoin complete the double bottom pattern or has the Bull Run actually started?
+
+http://qoo.ly/w2j4j"
+
+
+
+
+
+"• Compared to Ethereum, Elrond eliminates both energy and computational waste from PoW algorithms by implementing a SPoS consensus while using transaction processing parallelism through sharding.
+
+• Compared to Algorand, Elrond doesn’t have a single blockchain, instead it increases transaction’s throughput using sharding. Elrond also improves on Algorand’s idea of random selection by reducing the selection time of the consensus group from max 12 seconds to less than a second, but assumes that the adversaries cannot adapt within a round.
+
+• Compared to Zilliqa, Elrond pushes the limits of sharding by using not only transaction sharding but also state sharding. Elrond completely eliminates the PoW mechanism and uses SPoS for consensus. Both architectures are building their own smart contract engine, but Elrond aims for EVM compliance to to achieve interoperability between blockchains.
+https://elrond.com/faq"
+[removed]
+[removed]
+
+[removed]
+
+
+[removed]
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [Coin Burn](https://kryptocal.com/event/25594/coin-burn) | March 31, 2019
+ | [Alexandria Protocol Beta Release](https://kryptocal.com/event/25983/alexandria-protocol-beta-release) | March 31, 2019
+ | [WooCommerce Integration](https://kryptocal.com/event/26030/woocommerce-integration) | March 31, 2019
+ | [Swapp Whitepaper v1.0 Release](https://kryptocal.com/event/26056/swapp-whitepaper-v1-0-release) | March 31, 2019
+ | [Alpha Testnet Release](https://kryptocal.com/event/26084/alpha-testnet-release) | March 31, 2019
+ | [Masternode Marketplace](https://kryptocal.com/event/26251/masternode-marketplace) | March 31, 2019
+ | [Exchange Goes Live](https://kryptocal.com/event/26290/exchange-goes-live) | March 31, 2019
+ | [ELO Exchange Launch](https://kryptocal.com/event/26332/elo-exchange-launch) | March 31, 2019
+ | [Whitepaper Release](https://kryptocal.com/event/26445/whitepaper-release) | March 31, 2019
+ | [Miner Configurable Policy](https://kryptocal.com/event/26448/miner-configurable-policy) | March 31, 2019
+ | [UTXO Improvement](https://kryptocal.com/event/26449/utxo-improvement) | March 31, 2019
+ | [Signature Validation](https://kryptocal.com/event/26451/signature-validation) | March 31, 2019
+ | [Improved Data API](https://kryptocal.com/event/26462/improved-data-api) | March 31, 2019
+ | [More Transaction Metadata](https://kryptocal.com/event/26463/more-transaction-metadata) | March 31, 2019
+ | [EPIC COIN Platform](https://kryptocal.com/event/26521/epic-coin-platform) | March 31, 2019
+ | [Marketplace Launch](https://kryptocal.com/event/26625/marketplace-launch) | March 31, 2019
+ | [Stack Bonus Month 2](https://kryptocal.com/event/26699/stack-bonus-month-2) | March 31, 2019
+ | [Multi Currency Deposits](https://kryptocal.com/event/26825/multi-currency-deposits) | March 31, 2019
+ | [Swiftlance Beta Test](https://kryptocal.com/event/27014/swiftlance-beta-test) | March 31, 2019
+ | [Mainnet Release](https://kryptocal.com/event/27148/mainnet-release) | March 31, 2019
+ | [POS Integrations](https://kryptocal.com/event/27210/pos-integrations) | March 31, 2019
+ | [Alpha Version](https://kryptocal.com/event/27264/alpha-version) | March 31, 2019
+ | [New Website Launch](https://kryptocal.com/event/27293/new-website-launch) | March 31, 2019
+ | [Zenon Distribution Cycle](https://kryptocal.com/event/27326/zenon-distribution-cycle) | March 31, 2019
+[Ethereum(ETH)](https://kryptocal.com/coin/eth) | [BT/OST/ETH Atomic Swaps](https://kryptocal.com/event/27132/bt-ost-eth-atomic-swaps) | March 31, 2019
+[Cardano(ADA)](https://kryptocal.com/coin/ada) | [Shelley on Testnet](https://kryptocal.com/event/27101/shelley-on-testnet) | March 31, 2019
+[NEM(XEM)](https://kryptocal.com/coin/xem) | [Catapult Details Update](https://kryptocal.com/event/27119/catapult-details-update) | March 31, 2019
+[Stellar(XLM)](https://kryptocal.com/coin/xlm) | [Horizon Update](https://kryptocal.com/event/26972/horizon-update) | March 31, 2019
+[Stellar(XLM)](https://kryptocal.com/coin/xlm) | [Minor Release](https://kryptocal.com/event/26973/minor-release) | March 31, 2019
+[Dent(DENT)](https://kryptocal.com/coin/dent) | [""World Telco""](https://kryptocal.com/event/24815/world-telco) | March 31, 2019
+[Dent(DENT)](https://kryptocal.com/coin/dent) | [Afterburn Loyalty Program](https://kryptocal.com/event/27066/afterburn-loyalty-program) | March 31, 2019
+[Electroneum(ETN)](https://kryptocal.com/coin/etn) | [Swap, Crytrex, &amp; Plugin](https://kryptocal.com/event/26726/swap-crytrex-plugin) | March 31, 2019
+[Request Network(REQ)](https://kryptocal.com/coin/req) | [Mainet v2.0](https://kryptocal.com/event/27065/mainet-v2-0) | March 31, 2019
+[Power Ledger(POWR)](https://kryptocal.com/coin/powr) | [Community Product Demo](https://kryptocal.com/event/27352/community-product-demo) | March 31, 2019
+[aelf(ELF)](https://kryptocal.com/coin/elf) | [Mainnet Launch](https://kryptocal.com/event/26615/mainnet-launch) | March 31, 2019
+[Quantstamp(QSP)](https://kryptocal.com/coin/qsp) | [Smart Contract Security](https://kryptocal.com/event/27262/smart-contract-security) | March 31, 2019
+[Quantstamp(QSP)](https://kryptocal.com/coin/qsp) | [Assurance Protocol](https://kryptocal.com/event/27263/assurance-protocol) | March 31, 2019
+[SONM(SNM)](https://kryptocal.com/coin/snm) | [Q1 Updates](https://kryptocal.com/event/25083/q1-updates) | March 31, 2019
+[AdEx(ADX)](https://kryptocal.com/coin/adx) | [Roll out the AdEx Marketp](https://kryptocal.com/event/26744/roll-out-the-adex-marketp) | March 31, 2019
+[WaBi(WABI)](https://kryptocal.com/coin/wabi) | [Masternode Expansion](https://kryptocal.com/event/26793/masternode-expansion) | March 31, 2019
+[WaBi(WABI)](https://kryptocal.com/coin/wabi) | [Tael Adoption Stats Page](https://kryptocal.com/event/26794/tael-adoption-stats-page) | March 31, 2019
+[WaBi(WABI)](https://kryptocal.com/coin/wabi) | [Point of Sales Terminals](https://kryptocal.com/event/26795/point-of-sales-terminals) | March 31, 2019
+[WaBi(WABI)](https://kryptocal.com/coin/wabi) | [Fiat Payment Gateway](https://kryptocal.com/event/26796/fiat-payment-gateway) | March 31, 2019
+[Particl(PART)](https://kryptocal.com/coin/part) | [Marketplace Mainnet](https://kryptocal.com/event/27149/marketplace-mainnet) | March 31, 2019
+[Nuls(NULS)](https://kryptocal.com/coin/nuls) | [NULS 2.0 Alpha Test](https://kryptocal.com/event/27068/nuls-2-0-alpha-test) | March 31, 2019
+[Tierion(TNT)](https://kryptocal.com/coin/tnt) | [First Roadmap Publish](https://kryptocal.com/event/26826/first-roadmap-publish) | March 31, 2019
+[Etherparty(FUEL)](https://kryptocal.com/coin/fuel) | [VANBEXgroup Rebranding](https://kryptocal.com/event/27042/vanbexgroup-rebranding) | March 31, 2019
+[HempCoin(THC)](https://kryptocal.com/coin/thc) | [Major News and Updates](https://kryptocal.com/event/27324/major-news-and-updates) | March 31, 2019
+[YOYOW(YOYOW)](https://kryptocal.com/coin/yoyow) | [Q1 Releases](https://kryptocal.com/event/27004/q1-releases) | March 31, 2019
+[Viberate(VIB)](https://kryptocal.com/coin/vib) | [Viberate Smart Contracts](https://kryptocal.com/event/27105/viberate-smart-contracts) | March 31, 2019
+[Crown(CRW)](https://kryptocal.com/coin/crw) | [Jade Release](https://kryptocal.com/event/26845/jade-release) | March 31, 2019
+[Aeron(ARN)](https://kryptocal.com/coin/arn) | [Business Development EMEA](https://kryptocal.com/event/27131/business-development-emea) | March 31, 2019
+[Synereo(AMP)](https://kryptocal.com/coin/amp) | [Decentralized CDN](https://kryptocal.com/event/24788/decentralized-cdn) | March 31, 2019
+[Dimecoin(DIME)](https://kryptocal.com/coin/dime) | [Staking Rewards](https://kryptocal.com/event/25250/staking-rewards) | March 31, 2019
+[Breakout(BRK)](https://kryptocal.com/coin/brk) | [Drumora Asset Conversion](https://kryptocal.com/event/25855/drumora-asset-conversion) | March 31, 2019
+[Sumokoin(SUMO)](https://kryptocal.com/coin/sumo) | [Implement Bulletproof](https://kryptocal.com/event/26548/implement-bulletproof) | March 31, 2019
+[Hubii Network(HBT)](https://kryptocal.com/coin/hbt) | [Nahmii Mainnet Phase 3](https://kryptocal.com/event/26715/nahmii-mainnet-phase-3) | March 31, 2019
+[Hubii Network(HBT)](https://kryptocal.com/coin/hbt) | [Monhtly Nahmii Airdriip](https://kryptocal.com/event/26716/monhtly-nahmii-airdriip) | March 31, 2019
+[TittieCoin(TTC)](https://kryptocal.com/coin/ttc) | [Mainnet Launch](https://kryptocal.com/event/27292/mainnet-launch) | March 31, 2019
+[Capricoin(CPC)](https://kryptocal.com/coin/cpc) | [Mainnet Release](https://kryptocal.com/event/25593/mainnet-release) | March 31, 2019
+[Rawcoin(XRC)](https://kryptocal.com/coin/xrc) | [Source Code Release](https://kryptocal.com/event/27118/source-code-release) | March 31, 2019
+[Nebulas(NAS)](https://kryptocal.com/coin/nas) | [Testnet Developer Program](https://kryptocal.com/event/26624/testnet-developer-program) | March 31, 2019
+[Nebulas(NAS)](https://kryptocal.com/coin/nas) | [""Go Nebulas"" Launch](https://kryptocal.com/event/27102/go-nebulas-launch) | March 31, 2019
+[Nebulas(NAS)](https://kryptocal.com/coin/nas) | [Improve Project Process](https://kryptocal.com/event/27103/improve-project-process) | March 31, 2019
+[Nebulas(NAS)](https://kryptocal.com/coin/nas) | [Framework Restructure](https://kryptocal.com/event/27104/framework-restructure) | March 31, 2019
+[QLINK(QLC)](https://kryptocal.com/coin/qlc) | [Mainnet Launch](https://kryptocal.com/event/26480/mainnet-launch) | March 31, 2019
+[StrongHands(SHND)](https://kryptocal.com/coin/shnd) | [100:1 Swap](https://kryptocal.com/event/26310/100-1-swap) | March 31, 2019
+[Cappasity(CAPP)](https://kryptocal.com/coin/capp) | [WooCommerce Integration](https://kryptocal.com/event/25659/woocommerce-integration) | March 31, 2019
+[EXRNchain(EXRN)](https://kryptocal.com/coin/exrn) | [EXRNchain Alpha Release](https://kryptocal.com/event/15629/exrnchain-alpha-release) | March 31, 2019
+[Aigang(AIX)](https://kryptocal.com/coin/aix) | [Aigang (AIX) V3.0 Platform Release](https://kryptocal.com/event/5757/aigang-aix-v3-0-platform-release) | March 31, 2019
+[IOStoken(IOST)](https://kryptocal.com/coin/iost) | [V0.9 Hermes](https://kryptocal.com/event/10058/v0-9-hermes) | March 31, 2019
+[Harvest Masternode Coin(HC)](https://kryptocal.com/coin/hc) | [HAIL Protocol Development](https://kryptocal.com/event/27133/hail-protocol-development) | March 31, 2019
+[DATA(DTA)](https://kryptocal.com/coin/dta) | [Data SDK Protocol](https://kryptocal.com/event/25686/data-sdk-protocol) | March 31, 2019
+[DATA(DTA)](https://kryptocal.com/coin/dta) | [DATA Ecosystem](https://kryptocal.com/event/25687/data-ecosystem) | March 31, 2019
+[carVertical(cV)](https://kryptocal.com/coin/cv) | [Staking Mechanism](https://kryptocal.com/event/25003/staking-mechanism) | March 31, 2019
+[EDUCare(EKT)](https://kryptocal.com/coin/ekt) | [VM Virtual Machine](https://kryptocal.com/event/27325/vm-virtual-machine) | March 31, 2019
+[Sparks(SPK)](https://kryptocal.com/coin/spk) | [Whitepaper Updates](https://kryptocal.com/event/23430/whitepaper-updates) | March 31, 2019
+[Blockport(BPT)](https://kryptocal.com/coin/bpt) | [BPT 3.0 Full Release](https://kryptocal.com/event/11413/bpt-3-0-full-release) | March 31, 2019
+[Zilliqa(ZIL)](https://kryptocal.com/coin/zil) | [Token Swap](https://kryptocal.com/event/26697/token-swap) | March 31, 2019
+[Fortuna(FOTA)](https://kryptocal.com/coin/fota) | [Rebranding](https://kryptocal.com/event/27209/rebranding) | March 31, 2019
+[Fortuna(FOTA)](https://kryptocal.com/coin/fota) | [Rebrand](https://kryptocal.com/event/26974/rebrand) | March 31, 2019
+[adbank(ADB)](https://kryptocal.com/coin/adb) | [Browser Extension Release](https://kryptocal.com/event/26727/browser-extension-release) | March 31, 2019
+[Iungo(ING)](https://kryptocal.com/coin/ing) | [Multi Cell Service](https://kryptocal.com/event/7391/multi-cell-service) | March 31, 2019 [Possible Date]
+[WePower(WPR)](https://kryptocal.com/coin/wpr) | [Platform Beta &amp; Auctions](https://kryptocal.com/event/26642/platform-beta-auctions) | March 31, 2019
+[WePower(WPR)](https://kryptocal.com/coin/wpr) | [PPA Trading Launch](https://kryptocal.com/event/27193/ppa-trading-launch) | March 31, 2019
+[DADI(DADI)](https://kryptocal.com/coin/dadi) | [Shop Added to Dadi.Cloud](https://kryptocal.com/event/26149/shop-added-to-dadi-cloud) | March 31, 2019
+[DADI(DADI)](https://kryptocal.com/coin/dadi) | [Linux Device Onboarding](https://kryptocal.com/event/26140/linux-device-onboarding) | March 31, 2019
+[DADI(DADI)](https://kryptocal.com/coin/dadi) | [Network Explorer Live](https://kryptocal.com/event/26212/network-explorer-live) | March 31, 2019
+[DADI(DADI)](https://kryptocal.com/coin/dadi) | [DADI Store Network-Ready](https://kryptocal.com/event/25595/dadi-store-network-ready) | March 31, 2019
+[Nucleus Vision(NCASH)](https://kryptocal.com/coin/ncash) | [North American Launch](https://kryptocal.com/event/15628/north-american-launch) | March 31, 2019
+[Credits(CS)](https://kryptocal.com/coin/cs) | [Mainnet &amp; Token Swap](https://kryptocal.com/event/26415/mainnet-token-swap) | March 31, 2019
+[Ontology(ONT)](https://kryptocal.com/coin/ont) | [Support for MPC](https://kryptocal.com/event/26344/support-for-mpc) | March 31, 2019
+[Graft(GRFT)](https://kryptocal.com/coin/grft) | [Woocommerce Integration](https://kryptocal.com/event/26634/woocommerce-integration) | March 31, 2019
+[Storiqa(STQ)](https://kryptocal.com/coin/stq) | [Platform Full Launch](https://kryptocal.com/event/26811/platform-full-launch) | March 31, 2019
+[Bitcoin Green(BITG)](https://kryptocal.com/coin/bitg) | [Stakebase Launch](https://kryptocal.com/event/27084/stakebase-launch) | March 31, 2019
+[Wancoin(WAN)](https://kryptocal.com/coin/wan) | [PoS Research Paper](https://kryptocal.com/event/26345/pos-research-paper) | March 31, 2019
+[Mithril(MITH)](https://kryptocal.com/coin/mith) | [Vault Payment Launch](https://kryptocal.com/event/26398/vault-payment-launch) | March 31, 2019
+[ODEM(ODE)](https://kryptocal.com/coin/ode) | [Platform Launch](https://kryptocal.com/event/26600/platform-launch) | March 31, 2019
+[Dock(DOCK)](https://kryptocal.com/coin/dock) | [APP Release](https://kryptocal.com/event/27192/app-release) | March 31, 2019
+[Bezant(BZNT)](https://kryptocal.com/coin/bznt) | [Mainnet Release](https://kryptocal.com/event/27043/mainnet-release) | March 31, 2019
+[IoTeX(IOTX)](https://kryptocal.com/coin/iotx) | [Mainnet Alpha Launch](https://kryptocal.com/event/26309/mainnet-alpha-launch) | March 31, 2019
+[NKN(NKN)](https://kryptocal.com/coin/nkn) | [V0.9 ""Beluga"" Release](https://kryptocal.com/event/26450/v0-9-beluga-release) | March 31, 2019
+[Phantasma(SOUL)](https://kryptocal.com/coin/soul) | [Main Net](https://kryptocal.com/event/25527/main-net) | March 31, 2019
+[Powercoin(PWR)](https://kryptocal.com/coin/pwr) | [Dice Game](https://kryptocal.com/event/24719/dice-game) | March 31, 2019
+[PCHAIN(PAI)](https://kryptocal.com/coin/pai) | [Mainnet Launch](https://kryptocal.com/event/26399/mainnet-launch) | March 31, 2019
+[The Abyss(ABYSS)](https://kryptocal.com/coin/abyss) | [Abyss Platform Launch](https://kryptocal.com/event/
+
+&amp;nbsp;
+
+ There are more events but this message got too long"
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+"# Always-on privacy
+
+Veil combines Zerocoin and RingCT technologies to provide full-time privacy without compromise.
+
+# Anonymous earning
+
+Veil is the first coin that allows its holders to exclusively stake anonymously.
+
+# Fair launch
+
+No  ICO. No premine. Veil's blockchain is  secured via Proof-of-Work and  Proof-of-Stake in order to combine  security and distribution.
+
+# User-focused
+
+From  advanced wallet interfaces, to seed  recovery, to behind-the-scenes  savings of storage space, Veil delivers  the benefits of crypto to the  masses through a focus on user experience.
+
+# Self-sustaining
+
+The  Veil network includes built-in  self-funding for project development,  operations, customer support and  ongoing research and development
+
+# Future-safe
+
+Veil  will continue to push the limits of  cryptography and blockchain  technology through Veil Labs, an entity  dedicated to R&amp;D and  partnerships with leading academic  institutions.Always-on privacy
+
+Veil combines Zerocoin and RingCT technologies to provide full-time privacy without compromise.
+
+# Anonymous earning
+
+Veil is the first coin that allows its holders to exclusively stake anonymously.
+
+# Fair launch
+
+No  ICO. No premine. Veil's blockchain is  secured via Proof-of-Work and  Proof-of-Stake in order to combine  security and distribution.
+
+# User-focused
+
+From  advanced wallet interfaces, to seed  recovery, to behind-the-scenes  savings of storage space, Veil delivers  the benefits of crypto to the  masses through a focus on user experience.
+
+# Self-sustaining
+
+The  Veil network includes built-in  self-funding for project development,  operations, customer support and  ongoing research and development
+
+# Future-safe
+
+Veil  will continue to push the limits of  cryptography and blockchain  technology through Veil Labs, an entity  dedicated to R&amp;D and  partnerships with leading academic  institutions.
+
+For further information please visit: [https://veil-project.com/](https://veil-project.com/)"
+
+
+
+
+
+
+" 
+
+**CoinCasso**\- awesome  way of making money with crypto exchange. With CCX tokens  you can become shareholder of  cryptocurrency exchange from Europe. Sign up now  
+
+[https://coincasso.com/affiliate/qlQGa\_lGv-8ADRkQfiWt0FCStvyCSqpOvBxPpuFIthk](https://coincasso.com/affiliate/qlQGa_lGv-8ADRkQfiWt0FCStvyCSqpOvBxPpuFIthk)
+
+📷 "
+[removed]
+
+"Guaranteed fairness thanks to immutable smart contracts on the Ethereum blockchain.  Being through the process of due  diligence as well as verified by the top industry professionals, PARQ Token is  pleased to see the top score results they received. Join all those who value us so highly and shape the transportation industry with PARQ Token. PARQ Token is a very promising project that is developing rapidly . Join now. #PARQtoken #GoGreen #SmartCity #SmartParking; https://www.parqtoken.com "
+
+
+
+
+" After a swap for the safety of all our investors, successfully launched new chain and the presale continues for 10+ days at an incredible price! Once finalized, we will list on [@graviex\_net](http://twitter.com/graviex_net) or [@Crex\_24](http://twitter.com/Crex_24) . [https://discord.gg/28U8z4k](https://discord.gg/28U8z4k)  
+\#GPC $GPC #Masternode #POS #altcoins #giveaway #pivx"
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+[removed]
+"It should be noted that the Zerocoin protocol includes a 'non-private transaction state' known as the basecoin that accounts for Zero-knowledge proved transactions between parties with different coin denomination and size. And as technology today provides for, VIEL will provide for an always-on privacy to it's basecoin transactions that would securely cater for anonymity. A bulletproof technology will be added to ensure calculated and minimal transaction sizes. 
+
+Website URL: https://veil-project.com/"
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+[removed]
+
+"CDX Token is CODEX Exchange's native token based on EOS.  
+
+
+Key facts to know about CDX token:
+
+* **No ICO.**
+* **1,000,000 CDX are distributed daily.** When trading on selected markets, CODEX tokens are being rewarded in direct proportion with the volume traded by each trade mining participant every 24 hours at 00:00 UTC.
+* **49% of CDX tokens are locked.** For a vesting period of 12 months and are allocated in the CODEX fund for the platform needs. The rest (51%) is supposed to be distributed through trade mining.  
+
+
+Find more details at  [https://medium.com/codex-official-blog/explore-the-lucrative-nature-of-the-cdx-token-f0feb52d07da](https://medium.com/codex-official-blog/explore-the-lucrative-nature-of-the-cdx-token-f0feb52d07da) "
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+What are your go to coins that are generally predictable and you can buy / sell weekly or even monthly?
+[removed]
+
+
+
+
+
+"Hi, guys, I am new to crypto and recently I saw this new ICO / STO, what are your views on it ?? Should i invest ??
+ 
+IT STATES
+ 
+“ HYBSE, GMEX and MINDEX collaborate to list the world’s first Multi-Asset Stable Token in Mauritius
+Asset-backed by ownership in the founding companies and stable assets primarily Gold.
+ 
+Check the press release and our website:
+https://mast.eco/
+https://mast.eco/blog-detail ""
+ 
+In their recent news (https://medium.com/@DIMCOIN/mast-ato-is-live-a39c0dde2ec8), they mentioned that ""We are pleased to announce that Grant Thorton LLP, the seventh largest accounting network in the world, was the evaluation reviewer for HYBSE Marketplace Ltd. As mentioned in a previous announcement, the combined equity evaluation of HM, GMEX and MINDEX totals to $787.3 million.*"""
+[removed]
+
+
+
+
+[removed]
+[removed]
+[removed]
+[removed]
+
+
+
+
+" This elrondnetwork team has all chances to succeed and become really prominent. I believe if I choose them, I will prosper together with them!"
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+"Pi is a new digital currency being developed by a group of Stanford PhDs. For now, you can join the beta to earn Pi and help grow the network. Your phone does all of the work for you. People who join during the beta phase can become contributors and mine at the highest rate and gain special privileges. During beta, coins are distributed at a fixed rate and then once out of beta, will be officially mined. Either way you get to keep the coins for free!
+
+If you want to check it out, follow this link https://minepi.com/42city and use the code “42city” to get into the beta (You need a beta code to get in). 
+
+More information about it here and within the app: https://minepi.com/white-paper?utm_source=share&amp;utm_medium=ios_app"
+[removed]
+[removed]
+
+[removed]
+[removed]
+
+
+
+[removed]
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**General**
+
+ | | | 
+:--|:--:|:--|
+ | [OKEx Talks 2019 - Mumbai](https://kryptocal.com/event/27297/okex-talks-2019-mumbai) | April 27, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+
+[removed]
+
+[removed]
+
+
+
+
+
+
+
+
+
+
+
+
+[removed]
+[removed]
+
+
+
+"Say hello to the **Monthly Roast my portfolio**.
+
+As the name suggest you can discuss portfolios, as long it follows [Rule 1, 2, 3 and 4](https://www.reddit.com/r/altcoin/about/rules/). Yes, in this thread you can forget Rule 5, so shill and talk TA.
+
+**Furthermore**: Please use the Roast my portfolio for *rate my portfolio*, *shill me your coins*, *what to buy* and/or *roast my portfolio* posts.
+
+Please note:
+
+* Check the sidebar for information
+* New to /r/altcoin? Please read [Altcoin glossary: A crypto jargon guide 101](https://www.reddit.com/r/altcoin/comments/6oblq6/altcoin_glossary_a_crypto_jargon_guide_101/)
+* Do your own research!
+* Referral = ban"
+[removed]
+[removed]
+
+
+
+
+
+
+
+[removed]
+
+"I've been seeing ads for Happy Tax everywhere, but it would cost me $850 plus at least $300 in ""add-ons"" to cover my situation. $1000 bucks? Is that really my best option?
+
+My original CPA won't handle crypto, and the other firm I talked to seemed to know nothing about crypto tax law.
+
+I got a free account at contracting.info, but the UI is difficult and their customer support is sloooooow. It's cheap but it feels like I'll spend HOURS trying to figure this out!
+
+When I look at these software options: cointracker, contracting.info, zenledger.io, tokentax … they all have different accounting methods. I want to pay the least taxes possible, but I also want to do it right! 
+
+The requirements to find cost basses for every coin for every trade is nuts. Are all the software's doing this correctly and accurately? Is one better than the other? If you hire a crypto CPA, are they doing this math by hand?
+
+Turbo Tax - have any of you tired to use their Cryptocurrency integrations yet? 
+
+So with tax deadline a couple months out, have any of you started dealing with this yet? I'm invested in multiple exchanges, US-based. Who did you talk to? What resources did you use for accurate information? I need some better resources on how to get this done."
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+[removed]
+[removed]
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+[removed]
+
+
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+[removed]
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+"I discovered a project called Cereneum that is an interest bearing token that is airdropping to Btc, Bch, Bsv, Eth, and LTC holders. You will claim your tokens by making an Ethereum contract call at a 1Btc(or Btc ratio):10Cer. These tokens can be staked to enter a pool of interest that pays out more CER. Thoughts? 
+
+Here's the website if you want to research more before offering opinions: https://www.Cereneum.com"
+[removed]
+
+
+
+[removed]
+[removed]
+[removed]
+
+
+[removed]
+[removed]
+[removed]
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+
+
+"I will be bringing you upcoming events/announcements every **day**. If you want improvements to this post, please mention /u/houseme in the comments. We will make improvements based on your feedback.
+
+&amp;nbsp;
+
+
+https://kryptocal.com | /r/kryptocal | [Android] (https://play.google.com/store/apps/details?id=com.imetasoft.cryptocal&amp;hl=en) | [iOS] (https://itunes.apple.com/us/app/cryptocal/id1289009277?ls=1&amp;mt=8) | Telegram Interactive Bot (add cryptocalapp_bot) | Telegram Channel @kryptocal
+
+
+&amp;nbsp;
+
+### ADD AN EVENT
+
+If you like an event to be added, click [Submit Event](https://kryptocal.com/submitevent), and we will do the rest. 
+
+&amp;nbsp;
+
+
+### NEXT DAY UPCOMING EVENTS
+***
+
+&amp;nbsp;
+
+**Conferences**
+
+ | | | 
+:--|:--:|:--|
+[Aion(AION)](https://kryptocal.com/coin/aion) | [Rebuild Conference](https://kryptocal.com/event/27402/rebuild-conference) | April 23, 2019
+ | [Minsk iGaming Conference](https://kryptocal.com/event/27031/minsk-igaming-conference) | April 24, 2019
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;"
+[removed]
+
+
+
+
+
+
+
+
+
+[removed]
+
+
+
+
+
+
+"Proof: [http://www.metacafe.com/watch/11865499/xrp-ultimate-giveaway/](http://www.metacafe.com/watch/11865499/xrp-ultimate-giveaway/)
+
+Website: [https://cryptoinvest.website/](https://cryptoinvest.website/)"
+
+[removed]
+
+
+[removed]
+[removed]
+
+
+
+
+
+[removed]
+
+[removed]
+[removed]
+
+[removed]
+
+
+[removed]
+[removed]
