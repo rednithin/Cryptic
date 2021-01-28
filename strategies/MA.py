@@ -1,7 +1,7 @@
 import numpy as np
 from pprint import pprint
 import matplotlib.pyplot as plt
-from numba import jit
+
 import toml
 import pandas as pd
 import sys
@@ -53,7 +53,7 @@ class MyStrat(Strategy):
             "MAfast": get_column_name(columns, f"MA_{self.config['MA']['fast']}"),
         }
 
-    @jit
+    
     def step(self, tup):
         ma_slow = tup.at[0, self.column["MAslow"]]
         ma_medium = tup.at[0, self.column["MAmedium"]]

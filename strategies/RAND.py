@@ -1,7 +1,7 @@
 import numpy as np
 from pprint import pprint
 import matplotlib.pyplot as plt
-from numba import jit
+
 import toml
 import pandas as pd
 import sys
@@ -33,7 +33,7 @@ class MyStrat(Strategy):
         if not len(self.df):
             raise Exception('Need more data')
 
-    @jit
+    
     def step(self, tup):
         # print(self.config)
         if random() < self.config['RAND']["buy_probability"]:

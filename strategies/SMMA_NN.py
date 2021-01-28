@@ -1,7 +1,7 @@
 import numpy as np
 from pprint import pprint
 import matplotlib.pyplot as plt
-from numba import jit
+
 import toml
 import pandas as pd
 import sys
@@ -73,7 +73,7 @@ class MyStrat(Strategy):
             "SMMA": get_column_name(columns, f"SMMA_{self.config['SMMA']['n']}"),
         }
 
-    @jit
+    
     def step(self, tup):
         self.scale = self.computeScale() if not self.scale else self.scale
         # self.scale = 1

@@ -1,7 +1,7 @@
 import numpy as np
 from pprint import pprint
 import matplotlib.pyplot as plt
-from numba import jit
+
 import toml
 import pandas as pd
 import sys
@@ -57,7 +57,7 @@ class MyStrat(Strategy):
             "MACDsign": get_column_name(columns, "MACDsign_"),
         }
 
-    @jit
+    
     def step(self, tup):
         cci = tup.at[0, self.column["CCI"]]
         rsi = tup.at[0, self.column["RSI"]]
