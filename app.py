@@ -1,4 +1,4 @@
-from scheduled import scheduled_mail
+# from scheduled import scheduled_mail
 from flask import Flask, request, jsonify
 import redis
 from rq import Queue
@@ -301,15 +301,15 @@ for job in scheduler.get_jobs():
     scheduler.cancel(job)
 
 
-scheduler.schedule(
-    scheduled_time=datetime.utcnow(),
-    func=scheduled_mail,
-    # args=[],
-    # kwargs={},
-    interval=300,  # Seconds
-    repeat=None,
-    result_ttl=1
-)
+# scheduler.schedule(
+#     scheduled_time=datetime.utcnow(),
+#     func=scheduled_mail,
+#     # args=[],
+#     # kwargs={},
+#     interval=300,  # Seconds
+#     repeat=None,
+#     result_ttl=1
+# )
 
 
 @app.after_request
