@@ -4,7 +4,7 @@
 # plaidml.keras.install_backend()
 
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Activation, Flatten, LSTM, GRU, Conv1D, Flatten, MaxPooling1D, CuDNNLSTM, BatchNormalization, Dropout
+from tensorflow.keras.layers import Dense, Activation, Flatten, LSTM, GRU, Conv1D, Flatten, MaxPooling1D, BatchNormalization, Dropout
 from tensorflow.keras.callbacks import TensorBoard, ModelCheckpoint
 from tensorflow.keras.optimizers import Adam
 
